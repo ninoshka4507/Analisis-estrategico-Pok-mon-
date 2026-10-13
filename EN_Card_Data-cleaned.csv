@@ -1,0 +1,1268 @@
+Card ID,Card Name,Expansion,Collection No.,Stage (Pokémon)/Type (Energy and Trainer),Rule,Category,Previous stage,HP,Type
+1,Basic {G} Energy,SVE,1,Basic Energy,None,None,None,0.0,{G}
+2,Basic {R} Energy,SVE,2,Basic Energy,None,None,None,0.0,{R}
+3,Basic {W} Energy,SVE,3,Basic Energy,None,None,None,0.0,{W}
+4,Basic {L} Energy,SVE,4,Basic Energy,None,None,None,0.0,{L}
+5,Basic {P} Energy,SVE,5,Basic Energy,None,None,None,0.0,{P}
+6,Basic {F} Energy,SVE,6,Basic Energy,None,None,None,0.0,{F}
+7,Basic {D} Energy,SVE,7,Basic Energy,None,None,None,0.0,{D}
+8,Basic {M} Energy,SVE,8,Basic Energy,None,None,None,0.0,{M}
+9,Boomerang Energy,TWM,166,Special Energy,None,None,None,0.0,{C}
+10,Neo Upper Energy,TEF,162,Special Energy,ACE SPEC,None,None,0.0,Special/Astral
+11,Mist Energy,TEF,161,Special Energy,None,None,None,0.0,{C}
+12,Legacy Energy,TWM,167,Special Energy,ACE SPEC,None,None,0.0,Special/Astral
+13,Enriching Energy,SSP,191,Special Energy,ACE SPEC,None,None,0.0,{C}
+14,Spiky Energy,JTG,159,Special Energy,None,None,None,0.0,{C}
+15,Team Rocket's Energy,DRI,182,Special Energy,None,None,None,0.0,Team Rocket
+16,Prism Energy,BLK,86,Special Energy,None,None,None,0.0,Special/Astral
+17,Ignition Energy,WHT,86,Special Energy,None,None,None,0.0,{C}
+18,Grow Grass Energy,POR,86,Special Energy,None,None,None,0.0,{G}
+19,Telepath Psychic Energy,POR,87,Special Energy,None,None,None,0.0,{P}
+20,Rock Fighting Energy,POR,88,Special Energy,None,None,None,0.0,{F}
+21,Scrafty,PROMO,188,Stage 1 Pokémon,None,None,Scraggy,120.0,{D}
+22,Hippopotas,DRI,105,Basic Pokémon,None,None,None,90.0,{F}
+23,Hippowdon,DRI,106,Stage 1 Pokémon,None,None,Hippopotas,160.0,{F}
+24,Team Rocket's Kangaskhan ex,ASC,162,Basic Pokémon,Pokémon ex,Trainer's Pokémon（Team Rocket）,None,230.0,{C}
+25,Pinsir,TWM,3,Basic Pokémon,None,None,None,110.0,{G}
+26,Leafeon,TWM,11,Stage 1 Pokémon,None,None,Eevee,120.0,{G}
+27,Iron Leaves,TWM,19,Basic Pokémon,None,Future,None,120.0,{G}
+28,Poltchageist,TWM,20,Basic Pokémon,None,None,None,30.0,{G}
+29,Sinistcha ex,TWM,23,Stage 1 Pokémon,Pokémon ex,None,Poltchageist,240.0,{G}
+30,Magcargo ex,TWM,29,Stage 1 Pokémon,Pokémon ex,Tera(Fire),Slugma,270.0,{R}
+31,Chi-Yu,TWM,39,Basic Pokémon,None,None,None,110.0,{R}
+32,Glaceon,TWM,54,Stage 1 Pokémon,None,None,Eevee,120.0,{W}
+33,Froakie,TWM,56,Basic Pokémon,None,None,None,60.0,{W}
+34,Frogadier,TWM,57,Stage 1 Pokémon,None,None,Froakie,90.0,{W}
+35,Walking Wake,TWM,63,Basic Pokémon,None,Ancient,None,130.0,{W}
+36,Morpeko,TWM,72,Basic Pokémon,None,None,None,70.0,{L}
+37,Iron Thorns ex,TWM,77,Basic Pokémon,Pokémon ex,Future,None,230.0,{L}
+38,Girafarig,TWM,83,Basic Pokémon,None,None,None,100.0,{P}
+39,Enamorus,TWM,93,Basic Pokémon,None,None,None,120.0,{P}
+40,Greninja ex,TWM,106,Stage 2 Pokémon,Pokémon ex,Tera(Fighting),Frogadier,310.0,{F}
+41,Ting-Lu,TWM,110,Basic Pokémon,None,None,None,140.0,{F}
+42,Applin,TWM,126,Basic Pokémon,None,None,None,40.0,Dragon
+43,Eevee,TWM,135,Basic Pokémon,None,None,None,50.0,{C}
+44,Bloodmoon Ursaluna ex,TWM,141,Basic Pokémon,Pokémon ex,None,None,260.0,{C}
+45,Shaymin,TEF,13,Basic Pokémon,None,None,None,70.0,{G}
+46,Gouging Fire ex,TEF,38,Basic Pokémon,Pokémon ex,Ancient,None,230.0,{R}
+47,Totodile,TEF,39,Basic Pokémon,None,None,None,70.0,{W}
+48,Croconaw,TEF,40,Stage 1 Pokémon,None,None,Totodile,90.0,{W}
+49,Feraligatr,TEF,41,Stage 2 Pokémon,None,None,Croconaw,180.0,{W}
+50,Wiglett,TEF,47,Basic Pokémon,None,None,None,60.0,{W}
+51,Palafin,TEF,49,Stage 1 Pokémon,None,None,Finizen,150.0,{W}
+52,Wugtrio ex,TEF,60,Stage 1 Pokémon,Pokémon ex,Tera(Lightning),Wiglett,250.0,{L}
+53,Marill,TEF,64,Basic Pokémon,None,None,None,70.0,{P}
+54,Bronzor,TEF,68,Basic Pokémon,None,None,None,80.0,{P}
+55,Bronzong,TEF,69,Stage 1 Pokémon,None,None,Bronzor,110.0,{P}
+56,Flutter Mane,TEF,78,Basic Pokémon,None,Ancient,None,90.0,{P}
+57,Relicanth,TEF,84,Basic Pokémon,None,None,None,100.0,{F}
+58,Great Tusk,TEF,97,Basic Pokémon,None,Ancient,None,140.0,{F}
+59,Gastly,TEF,102,Basic Pokémon,None,None,None,60.0,{D}
+60,Haunter,TEF,103,Stage 1 Pokémon,None,None,Gastly,90.0,{D}
+61,Roaring Moon,TEF,109,Basic Pokémon,None,Ancient,None,140.0,{D}
+62,Koraidon,TEF,119,Basic Pokémon,None,Ancient,None,140.0,Dragon
+63,Raging Bolt ex,TEF,123,Basic Pokémon,Pokémon ex,Ancient,None,240.0,Dragon
+64,Hoothoot,TEF,126,Basic Pokémon,None,None,None,70.0,{C}
+65,Dunsparce,TEF,128,Basic Pokémon,None,None,None,60.0,{C}
+66,Dudunsparce,TEF,129,Stage 1 Pokémon,None,None,Dunsparce,140.0,{C}
+67,Pineco,TEF,2,Basic Pokémon,None,None,None,70.0,{G}
+68,Seedot,TEF,3,Basic Pokémon,None,None,None,60.0,{G}
+69,Nuzleaf,TEF,4,Stage 1 Pokémon,None,None,Seedot,90.0,{G}
+70,Shiftry,TEF,5,Stage 2 Pokémon,None,None,Nuzleaf,150.0,{G}
+71,Deerling,TEF,16,Basic Pokémon,None,None,None,70.0,{G}
+72,Sawsbuck,TEF,17,Stage 1 Pokémon,None,None,Deerling,130.0,{G}
+73,Rellor,TEF,23,Basic Pokémon,None,None,None,50.0,{G}
+74,Rabsca,TEF,24,Stage 1 Pokémon,None,None,Rellor,70.0,{G}
+75,Iron Leaves ex,TEF,25,Basic Pokémon,Pokémon ex,Future,None,220.0,{G}
+76,Slugma,TEF,28,Basic Pokémon,None,None,None,80.0,{R}
+77,Litten,TEF,32,Basic Pokémon,None,None,None,70.0,{R}
+78,Torracat,TEF,33,Stage 1 Pokémon,None,None,Litten,100.0,{R}
+79,Incineroar ex,TEF,34,Stage 2 Pokémon,Pokémon ex,None,Torracat,320.0,{R}
+80,Iron Crown ex,TEF,81,Basic Pokémon,Pokémon ex,Future,None,220.0,{P}
+81,Drilbur,TEF,85,Basic Pokémon,None,None,None,70.0,{F}
+82,Excadrill,TEF,86,Stage 1 Pokémon,None,None,Drilbur,130.0,{F}
+83,Farigiraf ex,TEF,108,Stage 1 Pokémon,Pokémon ex,Tera(Darkness),Girafarig,260.0,{D}
+84,Scizor ex,TEF,111,Stage 1 Pokémon,Pokémon ex,None,Scyther,270.0,{M}
+85,Beldum,TEF,113,Basic Pokémon,None,None,None,70.0,{M}
+86,Metang,TEF,114,Stage 1 Pokémon,None,None,Beldum,100.0,{M}
+87,Miraidon,TEF,121,Basic Pokémon,None,Future,None,110.0,Dragon
+88,Volbeat,TWM,9,Basic Pokémon,None,None,None,70.0,{G}
+89,Grookey,TWM,14,Basic Pokémon,None,None,None,70.0,{G}
+90,Thwackey,TWM,15,Stage 1 Pokémon,None,None,Grookey,100.0,{G}
+91,Rillaboom,TWM,16,Stage 2 Pokémon,None,None,Thwackey,180.0,{G}
+92,Applin,TWM,17,Basic Pokémon,None,None,None,40.0,{G}
+93,Dipplin,TWM,18,Stage 1 Pokémon,None,None,Applin,80.0,{G}
+94,Sinistcha,TWM,22,Stage 1 Pokémon,None,None,Poltchageist,70.0,{G}
+95,Teal Mask Ogerpon,TWM,24,Basic Pokémon,None,None,None,110.0,{G}
+96,Teal Mask Ogerpon ex,TWM,25,Basic Pokémon,Pokémon ex,Tera(Grass),None,210.0,{G}
+97,Litwick,TWM,36,Basic Pokémon,None,None,None,60.0,{R}
+98,Chandelure,TWM,38,Stage 2 Pokémon,None,None,Lampent,130.0,{R}
+99,Hearthflame Mask Ogerpon ex,TWM,40,Basic Pokémon,Pokémon ex,Tera(Fire),None,210.0,{R}
+100,Goldeen,TWM,44,Basic Pokémon,None,None,None,50.0,{W}
+101,Jynx,TWM,46,Basic Pokémon,None,None,None,90.0,{W}
+102,Milotic,TWM,50,Stage 1 Pokémon,None,None,Feebas,120.0,{W}
+103,Snorunt,TWM,51,Basic Pokémon,None,None,None,60.0,{W}
+104,Froslass,TWM,53,Stage 1 Pokémon,None,None,Snorunt,90.0,{W}
+105,Finizen,TWM,59,Basic Pokémon,None,None,None,70.0,{W}
+106,Palafin,TWM,60,Stage 1 Pokémon,None,None,Finizen,100.0,{W}
+107,Palafin ex,TWM,61,Stage 1 Pokémon,Pokémon ex,None,Finizen,340.0,{W}
+108,Wellspring Mask Ogerpon ex,TWM,64,Basic Pokémon,Pokémon ex,Tera(Water),None,210.0,{W}
+109,Abra,TWM,80,Basic Pokémon,None,None,None,40.0,{P}
+110,Slurpuff,TWM,90,Stage 1 Pokémon,None,None,Swirlix,120.0,{P}
+111,Sandygast,TWM,91,Basic Pokémon,None,None,None,90.0,{P}
+112,Munkidori,TWM,95,Basic Pokémon,None,None,None,110.0,{P}
+113,Timburr,TWM,103,Basic Pokémon,None,None,None,80.0,{F}
+114,Gurdurr,TWM,104,Stage 1 Pokémon,None,None,Timburr,100.0,{F}
+115,Conkeldurr,TWM,105,Stage 2 Pokémon,None,None,Gurdurr,180.0,{F}
+116,Okidogi,TWM,111,Basic Pokémon,None,None,None,130.0,{F}
+117,Cornerstone Mask Ogerpon ex,TWM,112,Basic Pokémon,Pokémon ex,Tera(Fighting),None,210.0,{F}
+118,Heatran,TWM,123,Basic Pokémon,None,None,None,140.0,{M}
+119,Dreepy,TWM,128,Basic Pokémon,None,None,None,70.0,Dragon
+120,Drakloak,TWM,129,Stage 1 Pokémon,None,None,Dreepy,90.0,Dragon
+121,Dragapult ex,TWM,130,Stage 2 Pokémon,Pokémon ex,Tera(Dragon),Drakloak,320.0,Dragon
+122,Tatsugiri,TWM,131,Basic Pokémon,None,None,None,70.0,Dragon
+123,Farfetch'd,TWM,132,Basic Pokémon,None,None,None,70.0,{C}
+124,Chansey,TWM,133,Basic Pokémon,None,None,None,120.0,{C}
+125,Blissey ex,TWM,134,Stage 1 Pokémon,Pokémon ex,None,Chansey,300.0,{C}
+126,Galvantula,SFA,2,Stage 1 Pokémon,None,None,Joltik,100.0,{G}
+127,Rowlet,SFA,3,Basic Pokémon,None,None,None,70.0,{G}
+128,Dartrix,SFA,4,Stage 1 Pokémon,None,None,Rowlet,90.0,{G}
+129,Decidueye,SFA,5,Stage 2 Pokémon,None,None,Dartrix,150.0,{G}
+130,Revavroom ex,SFA,15,Stage 1 Pokémon,Pokémon ex,Tera(Lightning),Varoom,280.0,{L}
+131,Duskull,SFA,18,Basic Pokémon,None,None,None,60.0,{P}
+132,Dusclops,SFA,19,Stage 1 Pokémon,None,None,Duskull,90.0,{P}
+133,Dusknoir,SFA,20,Stage 2 Pokémon,None,None,Dusclops,160.0,{P}
+134,Sylveon,SFA,22,Stage 1 Pokémon,None,None,Eevee,120.0,{P}
+135,Bloodmoon Ursaluna,SFA,25,Basic Pokémon,None,None,None,150.0,{F}
+136,Zorua,SFA,31,Basic Pokémon,None,None,None,70.0,{D}
+137,Zoroark,SFA,32,Stage 1 Pokémon,None,None,Zorua,120.0,{D}
+138,Okidogi ex,SFA,36,Basic Pokémon,Pokémon ex,None,None,250.0,{D}
+139,Munkidori ex,SFA,37,Basic Pokémon,Pokémon ex,None,None,210.0,{D}
+140,Fezandipiti ex,SFA,38,Basic Pokémon,Pokémon ex,None,None,210.0,{D}
+141,Pecharunt ex,SFA,39,Basic Pokémon,Pokémon ex,None,None,190.0,{D}
+142,Genesect,SFA,40,Basic Pokémon,None,None,None,110.0,{M}
+143,Varoom,SFA,43,Basic Pokémon,None,None,None,70.0,{M}
+144,Kyurem,SFA,47,Basic Pokémon,None,None,None,130.0,Dragon
+145,Eevee,SFA,50,Basic Pokémon,None,None,None,70.0,{C}
+146,Lileep,SCR,5,Stage 1 Pokémon,None,None,Antique Root Fossil,100.0,{G}
+147,Cradily,SCR,6,Stage 2 Pokémon,None,None,Lileep,150.0,{G}
+148,Mow Rotom,SCR,8,Basic Pokémon,None,None,None,90.0,{G}
+149,Applin,SCR,12,Basic Pokémon,None,None,None,40.0,{G}
+150,Hydrapple ex,SCR,14,Stage 2 Pokémon,Pokémon ex,None,Dipplin,330.0,{G}
+151,Scorbunny,SCR,26,Basic Pokémon,None,None,None,70.0,{R}
+152,Raboot,SCR,27,Stage 1 Pokémon,None,None,Scorbunny,90.0,{R}
+153,Cinderace ex,SCR,28,Stage 2 Pokémon,Pokémon ex,Tera(Stellar),Raboot,320.0,{R}
+154,Lapras ex,SCR,32,Basic Pokémon,Pokémon ex,Tera(Stellar),None,220.0,{W}
+155,Carracosta,SCR,38,Stage 2 Pokémon,None,None,Tirtouga,160.0,{W}
+156,Crabominable,SCR,42,Stage 1 Pokémon,None,None,Crabrawler,160.0,{W}
+157,Chewtle,SCR,43,Basic Pokémon,None,None,None,80.0,{W}
+158,Drednaw,SCR,44,Stage 1 Pokémon,None,None,Chewtle,140.0,{W}
+159,Veluza,SCR,45,Basic Pokémon,None,None,None,130.0,{W}
+160,Joltik,SCR,50,Basic Pokémon,None,None,None,30.0,{L}
+161,Galvantula ex,SCR,51,Stage 1 Pokémon,Pokémon ex,Tera(Stellar),Joltik,260.0,{L}
+162,Slowpoke,SCR,57,Basic Pokémon,None,None,None,80.0,{P}
+163,Slowking,SCR,58,Stage 1 Pokémon,None,None,Slowpoke,120.0,{P}
+164,Comfey,SCR,63,Basic Pokémon,None,None,None,70.0,{P}
+165,Klink,SCR,99,Basic Pokémon,None,None,None,60.0,{M}
+166,Klang,SCR,100,Stage 1 Pokémon,None,None,Klink,90.0,{M}
+167,Klinklang,SCR,101,Stage 2 Pokémon,None,None,Klang,140.0,{M}
+168,Meltan,SCR,103,Basic Pokémon,None,None,None,70.0,{M}
+169,Duraludon,SCR,106,Basic Pokémon,None,None,None,130.0,{M}
+170,Archaludon,SCR,107,Stage 1 Pokémon,None,None,Duraludon,180.0,{M}
+171,Raging Bolt,SCR,111,Basic Pokémon,None,Ancient,None,130.0,Dragon
+172,Hoothoot,SCR,114,Basic Pokémon,None,None,None,70.0,{C}
+173,Noctowl,SCR,115,Stage 1 Pokémon,None,None,Hoothoot,100.0,{C}
+174,Fan Rotom,SCR,118,Basic Pokémon,None,None,None,70.0,{C}
+175,Bouffalant,SCR,119,Basic Pokémon,None,None,None,100.0,{C}
+176,Terapagos ex,SCR,128,Basic Pokémon,Pokémon ex,Tera(Stellar),None,230.0,{C}
+177,Exeggcute,SSP,1,Basic Pokémon,None,None,None,30.0,{G}
+178,Zarude,SSP,11,Basic Pokémon,None,None,None,120.0,{G}
+179,Black Kyurem ex,SSP,48,Basic Pokémon,Pokémon ex,None,None,230.0,{W}
+180,Bruxish,SSP,49,Basic Pokémon,None,None,None,110.0,{W}
+181,Quaxwell,SSP,51,Stage 1 Pokémon,None,None,Quaxly,100.0,{W}
+182,Quaquaval,SSP,52,Stage 2 Pokémon,None,None,Quaxwell,170.0,{W}
+183,Smoochum,SSP,75,Basic Pokémon,None,None,None,30.0,{P}
+184,Latias ex,SSP,76,Basic Pokémon,Pokémon ex,None,None,210.0,{P}
+185,Flittle,SSP,94,Basic Pokémon,None,None,None,40.0,{P}
+186,Gimmighoul,SSP,97,Basic Pokémon,None,None,None,70.0,{P}
+187,Trapinch,SSP,104,Basic Pokémon,None,None,None,60.0,{F}
+188,Vibrava,SSP,105,Stage 1 Pokémon,None,None,Trapinch,90.0,{F}
+189,Flygon ex,SSP,106,Stage 2 Pokémon,Pokémon ex,Tera(Stellar),Vibrava,310.0,{F}
+190,Archaludon ex,SSP,130,Stage 1 Pokémon,Pokémon ex,None,Duraludon,300.0,{M}
+191,Gholdengo,SSP,131,Stage 1 Pokémon,None,None,Gimmighoul,130.0,{M}
+192,Iron Crown,SSP,132,Basic Pokémon,None,Future,None,130.0,{M}
+193,Alolan Exeggutor ex,SSP,133,Stage 1 Pokémon,Pokémon ex,Tera(Stellar),Exeggcute,300.0,Dragon
+194,Altaria,SSP,134,Stage 1 Pokémon,None,None,Swablu,120.0,Dragon
+195,Dialga,SSP,135,Basic Pokémon,None,None,None,130.0,Dragon
+196,Turtonator,SSP,137,Basic Pokémon,None,None,None,120.0,Dragon
+197,Swablu,SSP,148,Basic Pokémon,None,None,None,50.0,{C}
+198,Durant ex,SSP,4,Basic Pokémon,Pokémon ex,None,None,190.0,{G}
+199,Scatterbug,SSP,5,Basic Pokémon,None,None,None,40.0,{G}
+200,Spewpa,SSP,6,Stage 1 Pokémon,None,None,Scatterbug,80.0,{G}
+201,Wo-Chien,SSP,15,Basic Pokémon,None,None,None,130.0,{G}
+202,Victini,SSP,21,Basic Pokémon,None,None,None,70.0,{R}
+203,Skeledirge,SSP,31,Stage 2 Pokémon,None,None,Crocalor,180.0,{R}
+204,Charcadet,SSP,33,Basic Pokémon,None,None,None,80.0,{R}
+205,Scovillain ex,SSP,37,Stage 1 Pokémon,Pokémon ex,None,Capsakid,260.0,{R}
+206,Feebas,SSP,41,Basic Pokémon,None,None,None,30.0,{W}
+207,Milotic ex,SSP,42,Stage 1 Pokémon,Pokémon ex,None,Feebas,270.0,{W}
+208,Shellos,SSP,46,Basic Pokémon,None,None,None,70.0,{W}
+209,Chien-Pao,SSP,56,Basic Pokémon,None,None,None,120.0,{W}
+210,Pikachu ex,SSP,57,Basic Pokémon,Pokémon ex,Tera(Stellar),None,200.0,{L}
+211,Magneton,SSP,59,Stage 1 Pokémon,None,None,Magnemite,100.0,{L}
+212,Rotom,SSP,61,Basic Pokémon,None,None,None,80.0,{L}
+213,Tapu Koko,SSP,65,Basic Pokémon,None,None,None,120.0,{L}
+214,Togekiss,SSP,72,Stage 2 Pokémon,None,None,Togetic,140.0,{P}
+215,Uxie,SSP,78,Basic Pokémon,None,None,None,70.0,{P}
+216,Mesprit,SSP,79,Basic Pokémon,None,None,None,70.0,{P}
+217,Azelf,SSP,80,Basic Pokémon,None,None,None,70.0,{P}
+218,Yamask,SSP,82,Basic Pokémon,None,None,None,70.0,{P}
+219,Cofagrigus,SSP,83,Stage 1 Pokémon,None,None,Yamask,120.0,{P}
+220,Espurr,SSP,84,Basic Pokémon,None,None,None,60.0,{P}
+221,Meowstic,SSP,85,Stage 1 Pokémon,None,None,Espurr,90.0,{P}
+222,Dedenne,SSP,87,Basic Pokémon,None,None,None,70.0,{P}
+223,PalossandEX,SSP,91,Stage 1 Pokémon,Pokémon ex,Tera(Stellar),Sandygast,280.0,{P}
+224,Annihilape,SSP,100,Stage 2 Pokémon,None,None,Primeape,140.0,{F}
+225,Gastrodon,SSP,107,Stage 1 Pokémon,None,None,Shellos,130.0,{F}
+226,Koraidon,SSP,116,Basic Pokémon,None,Ancient,None,130.0,{F}
+227,Deino,SSP,117,Basic Pokémon,None,None,None,70.0,{D}
+228,Zweilous,SSP,118,Stage 1 Pokémon,None,None,Deino,100.0,{D}
+229,Hydreigon ex,SSP,119,Stage 2 Pokémon,Pokémon ex,Tera(Stellar),Zweilous,330.0,{D}
+230,Pecharunt,SVP,149,Basic Pokémon,None,None,None,80.0,{D}
+231,Tatsugiri ex,SSP,142,Basic Pokémon,Pokémon ex,Tera(Stellar),None,160.0,Dragon
+232,Slaking ex,SSP,147,Stage 2 Pokémon,Pokémon ex,None,Vigoroth,340.0,{C}
+233,Bouffalant,SSP,151,Basic Pokémon,None,None,None,130.0,{C}
+234,Terapagos,SSP,161,Basic Pokémon,None,None,None,120.0,{C}
+235,Budew,PRE,4,Basic Pokémon,None,None,None,30.0,{G}
+236,Leafeon ex,PRE,6,Stage 1 Pokémon,Pokémon ex,Tera(Stellar),Eevee,270.0,{G}
+237,Cottonee,PRE,7,Basic Pokémon,None,None,None,60.0,{G}
+238,Whimsicott,PRE,8,Stage 1 Pokémon,None,None,Cottonee,100.0,{G}
+239,Flareon ex,PRE,14,Stage 1 Pokémon,Pokémon ex,Tera(Stellar),Eevee,270.0,{R}
+240,Seaking,PRE,21,Stage 1 Pokémon,None,None,Goldeen,110.0,{W}
+241,Vaporeon ex,PRE,23,Stage 1 Pokémon,Pokémon ex,Tera(Stellar),Eevee,280.0,{W}
+242,Feebas,TWM,49,Basic Pokémon,None,None,None,30.0,{W}
+243,Glaceon ex,PRE,26,Stage 1 Pokémon,Pokémon ex,Tera(Stellar),Eevee,270.0,{W}
+244,Jolteon ex,PRE,30,Stage 1 Pokémon,Pokémon ex,Tera(Stellar),Eevee,260.0,{L}
+245,Alakazam,TWM,82,Stage 2 Pokémon,None,None,Kadabra,140.0,{P}
+246,Espeon ex,PRE,34,Stage 1 Pokémon,Pokémon ex,Tera(Stellar),Eevee,270.0,{P}
+247,Swirlix,TWM,89,Basic Pokémon,None,None,None,50.0,{P}
+248,Umbreon ex,PRE,60,Stage 1 Pokémon,Pokémon ex,Tera(Stellar),Eevee,280.0,{D}
+249,Eevee ex,PRE,75,Basic Pokémon,Pokémon ex,Tera(Stellar),None,200.0,{C}
+250,Hoothoot,PRE,77,Basic Pokémon,None,None,None,80.0,{C}
+251,Regigigas,PRE,86,Basic Pokémon,None,None,None,160.0,{C}
+252,Caterpie,JTG,1,Basic Pokémon,None,None,None,50.0,{G}
+253,Metapod,JTG,2,Stage 1 Pokémon,None,None,Caterpie,90.0,{G}
+254,Butterfree,JTG,3,Stage 2 Pokémon,None,None,Metapod,120.0,{G}
+255,Maractus,JTG,8,Basic Pokémon,None,None,None,110.0,{G}
+256,Magmortar,JTG,21,Stage 1 Pokémon,None,None,Magmar,130.0,{R}
+257,N’s Darumaka,JTG,26,Basic Pokémon,None,Trainer's Pokémon（N）,None,80.0,{R}
+258,N’s Darmanitan,JTG,27,Stage 1 Pokémon,None,Trainer's Pokémon（N）,N’s Darumaka,140.0,{R}
+259,Volcanion ex,JTG,31,Basic Pokémon,Pokémon ex,None,None,220.0,{R}
+260,Lotad,JTG,35,Basic Pokémon,None,None,None,60.0,{W}
+261,Lombre,JTG,36,Stage 1 Pokémon,None,None,Lotad,90.0,{W}
+262,Ludicolo,JTG,37,Stage 2 Pokémon,None,None,Lombre,140.0,{W}
+263,Wailmer,JTG,40,Basic Pokémon,None,None,None,130.0,{W}
+264,Wailord,JTG,41,Stage 1 Pokémon,None,None,Wailmer,240.0,{W}
+265,Iono’s Voltorb,JTG,47,Basic Pokémon,None,Trainer's Pokémon（Iono）,None,70.0,{L}
+266,Iono’s Electrode,JTG,48,Stage 1 Pokémon,None,Trainer's Pokémon（Iono）,Iono’s Voltorb,100.0,{L}
+267,N’s Joltik,JTG,49,Basic Pokémon,None,Trainer's Pokémon（N）,None,40.0,{L}
+268,Iono’s Tadbulb,JTG,52,Basic Pokémon,None,Trainer's Pokémon（Iono）,None,60.0,{L}
+269,Iono’s Bellibolt ex,JTG,53,Stage 1 Pokémon,Pokémon ex,Trainer's Pokémon（Iono）,Iono’s Tadbulb,280.0,{L}
+270,Iono’s Wattrel,JTG,54,Basic Pokémon,None,Trainer's Pokémon（Iono）,None,60.0,{L}
+271,Iono’s Kilowattrel,JTG,55,Stage 1 Pokémon,None,Trainer's Pokémon（Iono）,Iono’s Wattrel,120.0,{L}
+272,Lillie’s Clefairy ex,JTG,56,Basic Pokémon,Pokémon ex,Trainer's Pokémon（Lillie）,None,190.0,{P}
+273,Banette,JTG,60,Stage 1 Pokémon,None,None,Shuppet,90.0,{P}
+274,Beldum,JTG,61,Basic Pokémon,None,None,None,60.0,{P}
+275,Metang,JTG,62,Stage 1 Pokémon,None,None,Beldum,100.0,{P}
+276,Metagross,JTG,63,Stage 2 Pokémon,None,None,Metang,170.0,{P}
+277,N’s Sigilyph,JTG,64,Basic Pokémon,None,Trainer's Pokémon（N）,None,110.0,{P}
+278,Lillie’s Cutiefly,JTG,66,Basic Pokémon,None,Trainer's Pokémon（Lillie）,None,30.0,{P}
+279,Lillie’s Ribombee,JTG,67,Stage 1 Pokémon,None,Trainer's Pokémon（Lillie）,Lillie’s Cutiefly,70.0,{P}
+280,Lillie’s Comfey,JTG,68,Basic Pokémon,None,Trainer's Pokémon（Lillie）,None,70.0,{P}
+281,Swinub,JTG,77,Basic Pokémon,None,None,None,70.0,{F}
+282,Piloswine,JTG,78,Stage 1 Pokémon,None,None,Swinub,100.0,{F}
+283,Mamoswine ex,JTG,79,Stage 2 Pokémon,Pokémon ex,None,Piloswine,340.0,{F}
+284,Larvitar,JTG,80,Basic Pokémon,None,None,None,70.0,{F}
+285,Pupitar,JTG,81,Stage 1 Pokémon,None,None,Larvitar,90.0,{F}
+286,Rockruff,JTG,84,Basic Pokémon,None,None,None,70.0,{F}
+287,Lycanroc,JTG,85,Stage 1 Pokémon,None,None,Rockruff,120.0,{F}
+288,Hop’s Silicobra,JTG,86,Basic Pokémon,None,Trainer's Pokémon（Hop）,None,80.0,{F}
+289,Hop’s Sandaconda,JTG,87,Stage 1 Pokémon,None,Trainer's Pokémon（Hop）,Hop’s Silicobra,140.0,{F}
+290,Tyranitar,JTG,95,Stage 2 Pokémon,None,None,Pupitar,190.0,{D}
+291,N’s Purrloin,JTG,96,Basic Pokémon,None,Trainer's Pokémon（N）,None,70.0,{D}
+292,N’s Zorua,JTG,97,Basic Pokémon,None,Trainer's Pokémon（N）,None,70.0,{D}
+293,N’s Zoroark ex,JTG,98,Stage 1 Pokémon,Pokémon ex,Trainer's Pokémon（N）,N’s Zorua,280.0,{D}
+294,N’s Klink,JTG,103,Basic Pokémon,None,Trainer's Pokémon（N）,None,60.0,{M}
+295,N’s Klang,JTG,104,Stage 1 Pokémon,None,Trainer's Pokémon（N）,N’s Klink,90.0,{M}
+296,N’s Klinklang,JTG,105,Stage 2 Pokémon,None,Trainer's Pokémon（N）,N’s Klang,160.0,{M}
+297,Magearna,JTG,107,Basic Pokémon,None,None,None,90.0,{M}
+298,Hop’s Corviknight,JTG,108,Stage 2 Pokémon,None,Trainer's Pokémon（Hop）,Hop’s Corvisquire,170.0,{M}
+299,Hop’s Zacian ex,JTG,111,Basic Pokémon,Pokémon ex,Trainer's Pokémon（Hop）,None,230.0,{M}
+300,Bagon,JTG,112,Basic Pokémon,None,None,None,70.0,Dragon
+301,Shelgon,JTG,113,Stage 1 Pokémon,None,None,Bagon,100.0,Dragon
+302,Salamence ex,JTG,114,Stage 2 Pokémon,Pokémon ex,None,Shelgon,320.0,Dragon
+303,N’s Reshiram,JTG,116,Basic Pokémon,None,Trainer's Pokémon（N）,None,130.0,Dragon
+304,Hop’s Snorlax,JTG,117,Basic Pokémon,None,Trainer's Pokémon（Hop）,None,150.0,{C}
+305,Dunsparce,JTG,120,Basic Pokémon,None,None,None,70.0,{C}
+306,Dudunsparce ex,JTG,121,Stage 1 Pokémon,Pokémon ex,None,Dunsparce,270.0,{C}
+307,Hop’s Rookidee,JTG,133,Basic Pokémon,None,Trainer's Pokémon（Hop）,None,60.0,{C}
+308,Hop’s Corvisquire,JTG,134,Stage 1 Pokémon,None,Trainer's Pokémon（Hop）,Hop’s Rookidee,90.0,{C}
+309,Hop’s Wooloo,JTG,135,Basic Pokémon,None,Trainer's Pokémon（Hop）,None,70.0,{C}
+310,Hop’s Dubwool,JTG,136,Stage 1 Pokémon,None,Trainer's Pokémon（Hop）,Hop’s Wooloo,120.0,{C}
+311,Hop’s Cramorant,JTG,138,Basic Pokémon,None,Trainer's Pokémon（Hop）,None,110.0,{C}
+312,Sandy Shocks,TEF,98,Basic Pokémon,None,Ancient,None,120.0,{F}
+313,Miraidon ex,TEF,122,Basic Pokémon,Pokémon ex,Future,None,220.0,Dragon
+314,Marill,SCR,33,Basic Pokémon,None,None,None,70.0,{W}
+315,Azumarill,SSP,74,Stage 1 Pokémon,None,None,Marill,120.0,{P}
+316,Sylveon ex,SSP,86,Stage 1 Pokémon,Pokémon ex,Tera(Stellar),Eevee,270.0,{P}
+317,Eevee,SSP,143,Basic Pokémon,None,None,None,50.0,{C}
+318,Ho-Oh,SSP,19,Basic Pokémon,None,None,None,130.0,{R}
+319,Charcadet,SSP,32,Basic Pokémon,None,None,None,70.0,{R}
+320,Ceruledge ex,SSP,36,Stage 1 Pokémon,Pokémon ex,Tera(Stellar),Charcadet,270.0,{R}
+321,Petilil,JTG,6,Basic Pokémon,None,None,None,50.0,{G}
+322,Lilligant,JTG,7,Stage 1 Pokémon,None,None,Petilil,110.0,{G}
+323,Nymble,JTG,19,Basic Pokémon,None,None,None,50.0,{G}
+324,Torchic,JTG,22,Basic Pokémon,None,None,None,60.0,{R}
+325,Combusken,JTG,23,Stage 1 Pokémon,None,None,Torchic,90.0,{R}
+326,Blaziken ex,JTG,24,Stage 2 Pokémon,Pokémon ex,None,Combusken,320.0,{R}
+327,Slowpoke,PRE,18,Basic Pokémon,None,None,None,70.0,{W}
+328,Pikachu ex,PRE,28,Basic Pokémon,Pokémon ex,None,None,190.0,{L}
+329,Tapu Koko ex,JTG,51,Basic Pokémon,Pokémon ex,None,None,200.0,{L}
+330,Sylveon,PRE,40,Stage 1 Pokémon,None,None,Eevee,120.0,{P}
+331,XerneasEX,PROMO,179,Basic Pokémon,Pokémon ex,None,None,210.0,{P}
+332,Dhelmise,JTG,70,Basic Pokémon,None,None,None,130.0,{P}
+333,Riolu,PRE,50,Basic Pokémon,None,None,None,70.0,{F}
+334,Sneasel,PRE,61,Basic Pokémon,None,None,None,60.0,{D}
+335,Bronzor,PRE,66,Basic Pokémon,None,None,None,70.0,{M}
+336,Zacian ex,SVP,198,Basic Pokémon,Pokémon ex,None,None,220.0,{M}
+337,LugiaEX,PRE,82,Basic Pokémon,Pokémon ex,None,None,220.0,{C}
+338,Ethan's Pinsir,DRI,1,Basic Pokémon,None,Trainer's Pokémon（Ethan）,None,120.0,{G}
+339,Yanma,DRI,2,Basic Pokémon,None,None,None,70.0,{G}
+340,Yanmega ex,DRI,3,Stage 1 Pokémon,Pokémon ex,None,Yanma,280.0,{G}
+341,Cynthia's Roselia,DRI,7,Basic Pokémon,None,Trainer's Pokémon（Cynthia）,None,70.0,{G}
+342,Cynthia's Roserade,DRI,8,Stage 1 Pokémon,None,Trainer's Pokémon（Cynthia）,Cynthia's Roselia,130.0,{G}
+343,Shaymin,DRI,10,Basic Pokémon,None,None,None,80.0,{G}
+344,Dwebble,DRI,11,Basic Pokémon,None,None,None,70.0,{G}
+345,Crustle,DRI,12,Stage 1 Pokémon,None,None,Dwebble,150.0,{G}
+346,Applin,DRI,16,Basic Pokémon,None,None,None,40.0,{G}
+347,Dipplin,DRI,17,Stage 1 Pokémon,None,None,Applin,90.0,{G}
+348,Hydrapple,DRI,18,Stage 2 Pokémon,None,None,Dipplin,170.0,{G}
+349,Teal Mask Ogerpon,DRI,26,Basic Pokémon,None,None,None,110.0,{G}
+350,Ponyta,DRI,29,Basic Pokémon,None,None,None,70.0,{R}
+351,Rapidash,DRI,30,Stage 1 Pokémon,None,None,Ponyta,110.0,{R}
+352,Ethan's Cyndaquil,DRI,32,Basic Pokémon,None,Trainer's Pokémon（Ethan）,None,70.0,{R}
+353,Ethan's Quilava,DRI,33,Stage 1 Pokémon,None,Trainer's Pokémon（Ethan）,Ethan's Cyndaquil,100.0,{R}
+354,Ethan's Typhlosion,DRI,34,Stage 2 Pokémon,None,Trainer's Pokémon（Ethan）,Ethan's Quilava,170.0,{R}
+355,Ethan's Slugma,DRI,35,Basic Pokémon,None,Trainer's Pokémon（Ethan）,None,80.0,{R}
+356,Ethan's Magcargo,DRI,36,Stage 1 Pokémon,None,Trainer's Pokémon（Ethan）,Ethan's Slugma,130.0,{R}
+357,Ethan's Ho-Oh ex,DRI,39,Basic Pokémon,Pokémon ex,Trainer's Pokémon（Ethan）,None,230.0,{R}
+358,Hearthflame Mask Ogerpon,DRI,44,Basic Pokémon,None,None,None,110.0,{R}
+359,Misty's Psyduck,DRI,45,Basic Pokémon,None,Trainer's Pokémon（Misty）,None,70.0,{W}
+360,Misty's Staryu,DRI,46,Basic Pokémon,None,Trainer's Pokémon（Misty）,None,70.0,{W}
+361,Misty's Starmie,DRI,47,Stage 1 Pokémon,None,Trainer's Pokémon（Misty）,Misty's Staryu,100.0,{W}
+362,Misty's Magikarp,DRI,48,Basic Pokémon,None,Trainer's Pokémon（Misty）,None,30.0,{W}
+363,Misty's Gyarados,DRI,49,Stage 1 Pokémon,None,Trainer's Pokémon（Misty）,Misty's Magikarp,180.0,{W}
+364,Misty's Lapras,DRI,50,Basic Pokémon,None,Trainer's Pokémon（Misty）,None,110.0,{W}
+365,Cynthia's Feebas,DRI,52,Basic Pokémon,None,Trainer's Pokémon（Cynthia）,None,30.0,{W}
+366,Cynthia's Milotic,DRI,53,Stage 1 Pokémon,None,Trainer's Pokémon（Cynthia）,Cynthia's Feebas,130.0,{W}
+367,Buizel,DRI,57,Basic Pokémon,None,None,None,70.0,{W}
+368,Floatzel,DRI,58,Stage 1 Pokémon,None,None,Buizel,120.0,{W}
+369,Dondozo ex,DRI,66,Basic Pokémon,Pokémon ex,None,None,260.0,{W}
+370,Wellspring Mask Ogerpon,DRI,67,Basic Pokémon,None,None,None,110.0,{W}
+371,Electabuzz,DRI,68,Basic Pokémon,None,None,None,90.0,{L}
+372,Electivire ex,DRI,69,Stage 1 Pokémon,Pokémon ex,None,Electabuzz,280.0,{L}
+373,Ethan's Pichu,DRI,71,Basic Pokémon,None,Trainer's Pokémon（Ethan）,None,30.0,{L}
+374,Electrike,DRI,75,Basic Pokémon,None,None,None,60.0,{L}
+375,Manectric,DRI,76,Stage 1 Pokémon,None,None,Electrike,120.0,{L}
+376,Rotom,DRI,77,Basic Pokémon,None,None,None,60.0,{L}
+377,Zeraora,DRI,78,Basic Pokémon,None,None,None,100.0,{L}
+378,Ethan's Sudowoodo,DRI,93,Basic Pokémon,None,Trainer's Pokémon（Ethan）,None,110.0,{F}
+379,Cynthia's Gible,DRI,102,Basic Pokémon,None,Trainer's Pokémon（Cynthia）,None,70.0,{F}
+380,Cynthia's Gabite,DRI,103,Stage 1 Pokémon,None,Trainer's Pokémon（Cynthia）,Cynthia's Gible,100.0,{F}
+381,Cynthia's Garchomp ex,DRI,104,Stage 2 Pokémon,Pokémon ex,Trainer's Pokémon（Cynthia）,Cynthia's Gabite,330.0,{F}
+382,Mudbray,DRI,107,Basic Pokémon,None,None,None,90.0,{F}
+383,Mudsdale,DRI,108,Stage 1 Pokémon,None,None,Mudbray,150.0,{F}
+384,Arven's Toedscool,DRI,109,Basic Pokémon,None,Trainer's Pokémon（Arven）,None,70.0,{F}
+385,Arven's Toedscruel,DRI,110,Stage 1 Pokémon,None,Trainer's Pokémon（Arven）,Arven's Toedscool,140.0,{F}
+386,Cornerstone Mask Ogerpon,DRI,111,Basic Pokémon,None,None,None,110.0,{F}
+387,Cynthia's Spiritomb,DRI,129,Basic Pokémon,None,Trainer's Pokémon（Cynthia）,None,70.0,{D}
+388,Arven's Maschiff,DRI,138,Basic Pokémon,None,Trainer's Pokémon（Arven）,None,70.0,{D}
+389,Arven's Mabosstiff ex,DRI,139,Stage 1 Pokémon,Pokémon ex,Trainer's Pokémon（Arven）,Arven's Maschiff,270.0,{D}
+390,Tauros,DRI,152,Basic Pokémon,None,None,None,130.0,{C}
+391,Arven's Skwovet,DRI,158,Basic Pokémon,None,Trainer's Pokémon（Arven）,None,60.0,{C}
+392,Arven's Greedent,DRI,159,Stage 1 Pokémon,None,Trainer's Pokémon（Arven）,Arven's Skwovet,120.0,{C}
+393,Pineco,DRI,4,Basic Pokémon,None,None,None,70.0,{G}
+394,Shroomish,DRI,5,Basic Pokémon,None,None,None,60.0,{G}
+395,Breloom,DRI,6,Stage 1 Pokémon,None,None,Shroomish,120.0,{G}
+396,Mow Rotom,DRI,9,Basic Pokémon,None,None,None,70.0,{G}
+397,Fomantis,DRI,13,Basic Pokémon,None,None,None,60.0,{G}
+398,Lurantis,DRI,14,Stage 1 Pokémon,None,None,Fomantis,120.0,{G}
+399,Team Rocket's Blipbug,DRI,15,Basic Pokémon,None,Trainer's Pokémon（Team Rocket）,None,60.0,{G}
+400,Team Rocket's Tarountula,DRI,19,Basic Pokémon,None,Trainer's Pokémon（Team Rocket）,None,50.0,{G}
+401,Team Rocket's Spidops,DRI,20,Stage 1 Pokémon,None,Trainer's Pokémon（Team Rocket）,Team Rocket's Tarountula,130.0,{G}
+402,Smoliv,DRI,21,Basic Pokémon,None,None,None,60.0,{G}
+403,Dolliv,DRI,22,Stage 1 Pokémon,None,None,Smoliv,90.0,{G}
+404,Arboliva ex,DRI,23,Stage 2 Pokémon,Pokémon ex,None,Dolliv,310.0,{G}
+405,Growlithe,DRI,27,Basic Pokémon,None,None,None,80.0,{R}
+406,Arcanine,DRI,28,Stage 1 Pokémon,None,None,Growlithe,140.0,{R}
+407,Team Rocket's Moltres ex,DRI,31,Basic Pokémon,Pokémon ex,Trainer's Pokémon（Team Rocket）,None,220.0,{R}
+408,Team Rocket's Houndour,DRI,37,Basic Pokémon,None,Trainer's Pokémon（Team Rocket）,None,70.0,{R}
+409,Team Rocket's Houndoom,DRI,38,Stage 1 Pokémon,None,Trainer's Pokémon（Team Rocket）,Team Rocket's Houndour,130.0,{R}
+410,Torchic,DRI,40,Basic Pokémon,None,None,None,70.0,{R}
+411,Combusken,DRI,41,Stage 1 Pokémon,None,None,Torchic,100.0,{R}
+412,Blaziken,DRI,42,Stage 2 Pokémon,None,None,Combusken,170.0,{R}
+413,Heat Rotom,DRI,43,Basic Pokémon,None,None,None,80.0,{R}
+414,Team Rocket's Articuno,DRI,51,Basic Pokémon,None,Trainer's Pokémon（Team Rocket）,None,120.0,{W}
+415,Clamperl,DRI,54,Basic Pokémon,None,None,None,60.0,{W}
+416,Huntail,DRI,55,Stage 1 Pokémon,None,None,Clamperl,110.0,{W}
+417,Gorebyss,DRI,56,Stage 1 Pokémon,None,None,Clamperl,90.0,{W}
+418,Snover,DRI,59,Basic Pokémon,None,None,None,90.0,{W}
+419,Abomasnow,DRI,60,Stage 1 Pokémon,None,None,Snover,150.0,{W}
+420,Wash Rotom,DRI,61,Basic Pokémon,None,None,None,80.0,{W}
+421,Arrokuda,DRI,62,Basic Pokémon,None,None,None,70.0,{W}
+422,Barraskewda,DRI,63,Stage 1 Pokémon,None,None,Arrokuda,130.0,{W}
+423,Cetoddle,DRI,64,Basic Pokémon,None,None,None,100.0,{W}
+424,Cetitan ex,DRI,65,Stage 1 Pokémon,Pokémon ex,None,Cetoddle,300.0,{W}
+425,Team Rocket's Zapdos,DRI,70,Basic Pokémon,None,Trainer's Pokémon（Team Rocket）,None,120.0,{L}
+426,Team Rocket's Mareep,DRI,72,Basic Pokémon,None,Trainer's Pokémon（Team Rocket）,None,60.0,{L}
+427,Team Rocket's Flaaffy,DRI,73,Stage 1 Pokémon,None,Trainer's Pokémon（Team Rocket）,Team Rocket's Mareep,90.0,{L}
+428,Team Rocket's Ampharos,DRI,74,Stage 2 Pokémon,None,Trainer's Pokémon（Team Rocket）,Team Rocket's Flaaffy,140.0,{L}
+429,Team Rocket's Drowzee,DRI,79,Basic Pokémon,None,Trainer's Pokémon（Team Rocket）,None,80.0,{P}
+430,Team Rocket's Hypno,DRI,80,Stage 1 Pokémon,None,Trainer's Pokémon（Team Rocket）,Team Rocket's Drowzee,130.0,{P}
+431,Team Rocket's Mewtwo ex,DRI,81,Basic Pokémon,Pokémon ex,Trainer's Pokémon（Team Rocket）,None,280.0,{P}
+432,Team Rocket's Wobbuffet,DRI,82,Basic Pokémon,None,Trainer's Pokémon（Team Rocket）,None,110.0,{P}
+433,Team Rocket's Chingling,DRI,85,Basic Pokémon,None,Trainer's Pokémon（Team Rocket）,None,30.0,{P}
+434,Team Rocket's Mimikyu,DRI,87,Basic Pokémon,None,Trainer's Pokémon（Team Rocket）,None,60.0,{P}
+435,Team Rocket's Dottler,DRI,88,Stage 1 Pokémon,None,Trainer's Pokémon（Team Rocket）,Team Rocket's Blipbug,80.0,{P}
+436,Team Rocket's Orbeetle,DRI,89,Stage 2 Pokémon,None,Trainer's Pokémon（Team Rocket）,Team Rocket's Dottler,130.0,{P}
+437,Mankey,DRI,90,Basic Pokémon,None,None,None,70.0,{F}
+438,Primeape,DRI,91,Stage 1 Pokémon,None,None,Mankey,110.0,{F}
+439,Annihilape,DRI,92,Stage 2 Pokémon,None,None,Primeape,150.0,{F}
+440,Team Rocket's Larvitar,DRI,94,Basic Pokémon,None,Trainer's Pokémon（Team Rocket）,None,70.0,{F}
+441,Team Rocket's Pupitar,DRI,95,Stage 1 Pokémon,None,Trainer's Pokémon（Team Rocket）,Team Rocket's Larvitar,100.0,{F}
+442,Team Rocket's Tyranitar,DRI,96,Stage 2 Pokémon,None,Trainer's Pokémon（Team Rocket）,Team Rocket's Pupitar,180.0,{F}
+443,Nosepass,DRI,97,Basic Pokémon,None,None,None,80.0,{F}
+444,Probopass,DRI,98,Stage 1 Pokémon,None,None,Nosepass,140.0,{F}
+445,Meditite,DRI,99,Basic Pokémon,None,None,None,70.0,{F}
+446,Medicham,DRI,100,Stage 1 Pokémon,None,None,Meditite,120.0,{F}
+447,Regirock ex,DRI,101,Basic Pokémon,Pokémon ex,None,None,230.0,{F}
+448,Team Rocket's Ekans,DRI,112,Basic Pokémon,None,Trainer's Pokémon（Team Rocket）,None,70.0,{D}
+449,Team Rocket's Arbok,DRI,113,Stage 1 Pokémon,None,Trainer's Pokémon（Team Rocket）,Team Rocket's Ekans,130.0,{D}
+450,Team Rocket's Nidoran♀,DRI,114,Basic Pokémon,None,Trainer's Pokémon（Team Rocket）,None,70.0,{D}
+451,Team Rocket's Nidorina,DRI,115,Stage 1 Pokémon,None,Trainer's Pokémon（Team Rocket）,Team Rocket's Nidoran♀,90.0,{D}
+452,Team Rocket's Nidoqueen,DRI,116,Stage 2 Pokémon,None,Trainer's Pokémon（Team Rocket）,Team Rocket's Nidorina,170.0,{D}
+453,Team Rocket's Nidoran♂,DRI,117,Basic Pokémon,None,Trainer's Pokémon（Team Rocket）,None,70.0,{D}
+454,Team Rocket's Nidorino,DRI,118,Stage 1 Pokémon,None,Trainer's Pokémon（Team Rocket）,Team Rocket's Nidoran♂,100.0,{D}
+455,Team Rocket's Nidoking ex,DRI,119,Stage 2 Pokémon,Pokémon ex,Trainer's Pokémon（Team Rocket）,Team Rocket's Nidorino,330.0,{D}
+456,Team Rocket's Zubat,DRI,120,Basic Pokémon,None,Trainer's Pokémon（Team Rocket）,None,50.0,{D}
+457,Team Rocket's Golbat,DRI,121,Stage 1 Pokémon,None,Trainer's Pokémon（Team Rocket）,Team Rocket's Zubat,80.0,{D}
+458,Team Rocket's Crobat ex,DRI,122,Stage 2 Pokémon,Pokémon ex,Trainer's Pokémon（Team Rocket）,Team Rocket's Golbat,310.0,{D}
+459,Team Rocket's Grimer,DRI,123,Basic Pokémon,None,Trainer's Pokémon（Team Rocket）,None,80.0,{D}
+460,Team Rocket's Muk,DRI,124,Stage 1 Pokémon,None,Trainer's Pokémon（Team Rocket）,Team Rocket's Grimer,150.0,{D}
+461,Team Rocket's Koffing,DRI,125,Basic Pokémon,None,Trainer's Pokémon（Team Rocket）,None,70.0,{D}
+462,Team Rocket's Weezing,DRI,126,Stage 1 Pokémon,None,Trainer's Pokémon（Team Rocket）,Team Rocket's Koffing,130.0,{D}
+463,Team Rocket's Murkrow,DRI,127,Basic Pokémon,None,Trainer's Pokémon（Team Rocket）,None,80.0,{D}
+464,Team Rocket's Sneasel,DRI,128,Basic Pokémon,None,Trainer's Pokémon（Team Rocket）,None,80.0,{D}
+465,Forretress,DRI,140,Stage 1 Pokémon,None,None,Pineco,130.0,{M}
+466,Skarmory,DRI,141,Basic Pokémon,None,None,None,110.0,{M}
+467,Zamazenta,DRI,146,Basic Pokémon,None,None,None,130.0,{M}
+468,Team Rocket's Rattata,DRI,147,Basic Pokémon,None,Trainer's Pokémon（Team Rocket）,None,50.0,{C}
+469,Team Rocket's Raticate,DRI,148,Stage 1 Pokémon,None,Trainer's Pokémon（Team Rocket）,Team Rocket's Rattata,90.0,{C}
+470,Team Rocket's Meowth,DRI,149,Basic Pokémon,None,Trainer's Pokémon（Team Rocket）,None,70.0,{C}
+471,Team Rocket's Persian ex,DRI,150,Stage 1 Pokémon,Pokémon ex,Trainer's Pokémon（Team Rocket）,Team Rocket's Meowth,260.0,{C}
+472,Kangaskhan,DRI,151,Basic Pokémon,None,None,None,120.0,{C}
+473,Team Rocket's Porygon,DRI,153,Basic Pokémon,None,Trainer's Pokémon（Team Rocket）,None,60.0,{C}
+474,Team Rocket's Porygon2,DRI,154,Stage 1 Pokémon,None,Trainer's Pokémon（Team Rocket）,Team Rocket's Porygon,90.0,{C}
+475,Team Rocket's Porygon-Z,DRI,155,Stage 2 Pokémon,None,Trainer's Pokémon（Team Rocket）,Team Rocket's Porygon2,140.0,{C}
+476,Taillow,DRI,156,Basic Pokémon,None,None,None,60.0,{C}
+477,Swellow,DRI,157,Stage 1 Pokémon,None,None,Taillow,100.0,{C}
+478,Squawkabilly,DRI,160,Basic Pokémon,None,None,None,70.0,{C}
+479,Snivy,BLK,1,Basic Pokémon,None,None,None,70.0,{G}
+480,Servine,BLK,2,Stage 1 Pokémon,None,None,Snivy,100.0,{G}
+481,Serperior ex,BLK,3,Stage 2 Pokémon,Pokémon ex,None,Servine,320.0,{G}
+482,Pansage,BLK,4,Basic Pokémon,None,None,None,70.0,{G}
+483,Simisage,BLK,5,Stage 1 Pokémon,None,None,Pansage,100.0,{G}
+484,Petilil,BLK,6,Basic Pokémon,None,None,None,60.0,{G}
+485,Lilligant,BLK,7,Stage 1 Pokémon,None,None,Petilil,100.0,{G}
+486,Maractus,BLK,8,Basic Pokémon,None,None,None,100.0,{G}
+487,Karrablast,BLK,9,Basic Pokémon,None,None,None,60.0,{G}
+488,Foongus,BLK,10,Basic Pokémon,None,None,None,50.0,{G}
+489,Amoonguss,BLK,11,Stage 1 Pokémon,None,None,Foongus,120.0,{G}
+490,Victini,BLK,12,Basic Pokémon,None,None,None,80.0,{R}
+491,Darumaka,BLK,13,Basic Pokémon,None,None,None,80.0,{R}
+492,Darmanitan,BLK,14,Stage 1 Pokémon,None,None,Darumaka,140.0,{R}
+493,Litwick,WHT,16,Basic Pokémon,None,None,None,60.0,{R}
+494,Lampent,WHT,17,Stage 1 Pokémon,None,None,Litwick,80.0,{R}
+495,Chandelure,WHT,18,Stage 2 Pokémon,None,None,Lampent,150.0,{R}
+496,Larvesta,BLK,15,Basic Pokémon,None,None,None,60.0,{R}
+497,Volcarona,BLK,16,Stage 1 Pokémon,None,None,Larvesta,120.0,{R}
+498,Panpour,BLK,17,Basic Pokémon,None,None,None,70.0,{W}
+499,Simipour,BLK,18,Stage 1 Pokémon,None,None,Panpour,100.0,{W}
+500,Tympole,BLK,19,Basic Pokémon,None,None,None,60.0,{W}
+501,Palpitoad,BLK,20,Stage 1 Pokémon,None,None,Tympole,90.0,{W}
+502,Seismitoad,BLK,21,Stage 2 Pokémon,None,None,Palpitoad,170.0,{W}
+503,Tirtouga,BLK,22,Stage 1 Pokémon,None,None,Antique Cover Fossil,100.0,{W}
+504,Carracosta,BLK,23,Stage 2 Pokémon,None,None,Tirtouga,180.0,{W}
+505,Alomomola,BLK,24,Basic Pokémon,None,None,None,110.0,{W}
+506,Cubchoo,BLK,25,Basic Pokémon,None,None,None,70.0,{W}
+507,Beartic,BLK,26,Stage 1 Pokémon,None,None,Cubchoo,150.0,{W}
+508,Cryogonal,BLK,27,Basic Pokémon,None,None,None,90.0,{W}
+509,Kyurem ex,BLK,28,Basic Pokémon,Pokémon ex,None,None,230.0,{W}
+510,Emolga,BLK,29,Basic Pokémon,None,None,None,70.0,{L}
+511,Tynamo,BLK,30,Basic Pokémon,None,None,None,40.0,{L}
+512,Eelektrik,BLK,31,Stage 1 Pokémon,None,None,Tynamo,90.0,{L}
+513,Eelektross,BLK,32,Stage 2 Pokémon,None,None,Eelektrik,160.0,{L}
+514,Thundurus,BLK,33,Basic Pokémon,None,None,None,120.0,{L}
+515,Zekrom ex,BLK,34,Basic Pokémon,Pokémon ex,None,None,230.0,{L}
+516,Munna,BLK,35,Basic Pokémon,None,None,None,70.0,{P}
+517,Musharna,BLK,36,Stage 1 Pokémon,None,None,Munna,120.0,{P}
+518,Solosis,BLK,37,Basic Pokémon,None,None,None,40.0,{P}
+519,Duosion,BLK,38,Stage 1 Pokémon,None,None,Solosis,70.0,{P}
+520,Reuniclus,BLK,39,Stage 2 Pokémon,None,None,Duosion,140.0,{P}
+521,Elgyem,BLK,40,Basic Pokémon,None,None,None,60.0,{P}
+522,Beheeyem,BLK,41,Stage 1 Pokémon,None,None,Elgyem,90.0,{P}
+523,Golett,BLK,42,Basic Pokémon,None,None,None,90.0,{P}
+524,Golurk,BLK,43,Stage 1 Pokémon,None,None,Golett,160.0,{P}
+525,Meloetta ex,BLK,44,Basic Pokémon,Pokémon ex,None,None,200.0,{P}
+526,Drilbur,BLK,45,Basic Pokémon,None,None,None,70.0,{F}
+527,Excadrill ex,BLK,46,Stage 1 Pokémon,Pokémon ex,None,Drilbur,270.0,{F}
+528,Timburr,BLK,47,Basic Pokémon,None,None,None,70.0,{F}
+529,Gurdurr,BLK,48,Stage 1 Pokémon,None,None,Timburr,100.0,{F}
+530,Conkeldurr,BLK,49,Stage 2 Pokémon,None,None,Gurdurr,140.0,{F}
+531,Throh,BLK,50,Basic Pokémon,None,None,None,130.0,{F}
+532,Dwebble,BLK,51,Basic Pokémon,None,None,None,70.0,{F}
+533,Crustle,BLK,52,Stage 1 Pokémon,None,None,Dwebble,150.0,{F}
+534,Landorus,BLK,53,Basic Pokémon,None,None,None,130.0,{F}
+535,Venipede,BLK,54,Basic Pokémon,None,None,None,80.0,{D}
+536,Whirlipede,BLK,55,Stage 1 Pokémon,None,None,Venipede,100.0,{D}
+537,Scolipede,BLK,56,Stage 2 Pokémon,None,None,Whirlipede,160.0,{D}
+538,Sandile,BLK,57,Basic Pokémon,None,None,None,70.0,{D}
+539,Krokorok,BLK,58,Stage 1 Pokémon,None,None,Sandile,100.0,{D}
+540,Krookodile,BLK,59,Stage 2 Pokémon,None,None,Krokorok,170.0,{D}
+541,Vullaby,WHT,63,Basic Pokémon,None,None,None,70.0,{D}
+542,Mandibuzz,WHT,64,Stage 1 Pokémon,None,None,Vullaby,110.0,{D}
+543,Escavalier,BLK,60,Stage 1 Pokémon,None,None,Karrablast,130.0,{M}
+544,Pawniard,BLK,64,Basic Pokémon,None,None,None,60.0,{M}
+545,Bisharp,BLK,65,Stage 1 Pokémon,None,None,Pawniard,120.0,{M}
+546,Cobalion,BLK,66,Basic Pokémon,None,None,None,120.0,{M}
+547,Genesect ex,BLK,67,Basic Pokémon,Pokémon ex,None,None,220.0,{M}
+548,Axew,BLK,68,Basic Pokémon,None,None,None,70.0,Dragon
+549,Fraxure,BLK,69,Stage 1 Pokémon,None,None,Axew,100.0,Dragon
+550,Haxorus,BLK,70,Stage 2 Pokémon,None,None,Fraxure,170.0,Dragon
+551,Pidove,BLK,71,Basic Pokémon,None,None,None,60.0,{C}
+552,Tranquill,BLK,72,Stage 1 Pokémon,None,None,Pidove,80.0,{C}
+553,Unfezant,BLK,73,Stage 2 Pokémon,None,None,Tranquill,150.0,{C}
+554,Audino,BLK,74,Basic Pokémon,None,None,None,100.0,{C}
+555,Minccino,BLK,75,Basic Pokémon,None,None,None,60.0,{C}
+556,Cinccino,BLK,76,Stage 1 Pokémon,None,None,Minccino,100.0,{C}
+557,Sewaddle,WHT,1,Basic Pokémon,None,None,None,50.0,{G}
+558,Swadloon,WHT,2,Stage 1 Pokémon,None,None,Sewaddle,80.0,{G}
+559,Leavanny,WHT,3,Stage 2 Pokémon,None,None,Swadloon,130.0,{G}
+560,Cottonee,WHT,4,Basic Pokémon,None,None,None,60.0,{G}
+561,Whimsicott ex,WHT,5,Stage 1 Pokémon,Pokémon ex,None,Cottonee,230.0,{G}
+562,Deerling,WHT,6,Basic Pokémon,None,None,None,70.0,{G}
+563,Sawsbuck,WHT,7,Stage 1 Pokémon,None,None,Deerling,130.0,{G}
+564,Shelmet,WHT,8,Basic Pokémon,None,None,None,60.0,{G}
+565,Accelgor,WHT,9,Stage 1 Pokémon,None,None,Shelmet,100.0,{G}
+566,Virizion,WHT,10,Basic Pokémon,None,None,None,120.0,{G}
+567,Tepig,WHT,11,Basic Pokémon,None,None,None,70.0,{R}
+568,Pignite,WHT,12,Stage 1 Pokémon,None,None,Tepig,110.0,{R}
+569,Emboar,WHT,13,Stage 2 Pokémon,None,None,Pignite,180.0,{R}
+570,Pansear,WHT,14,Basic Pokémon,None,None,None,70.0,{R}
+571,Simisear,WHT,15,Stage 1 Pokémon,None,None,Pansear,100.0,{R}
+572,Heatmor,WHT,19,Basic Pokémon,None,None,None,120.0,{R}
+573,Reshiram ex,WHT,20,Basic Pokémon,Pokémon ex,None,None,230.0,{R}
+574,Oshawott,WHT,21,Basic Pokémon,None,None,None,70.0,{W}
+575,Dewott,WHT,22,Stage 1 Pokémon,None,None,Oshawott,100.0,{W}
+576,Samurott,WHT,23,Stage 2 Pokémon,None,None,Dewott,160.0,{W}
+577,Basculin,WHT,24,Basic Pokémon,None,None,None,90.0,{W}
+578,Ducklett,WHT,25,Basic Pokémon,None,None,None,70.0,{W}
+579,Swanna,WHT,26,Stage 1 Pokémon,None,None,Ducklett,120.0,{W}
+580,Vanillite,WHT,27,Basic Pokémon,None,None,None,60.0,{W}
+581,Vanillish,WHT,28,Stage 1 Pokémon,None,None,Vanillite,90.0,{W}
+582,Vanilluxe,WHT,29,Stage 2 Pokémon,None,None,Vanillish,150.0,{W}
+583,Keldeo ex,WHT,30,Basic Pokémon,Pokémon ex,None,None,210.0,{W}
+584,Blitzle,WHT,31,Basic Pokémon,None,None,None,60.0,{L}
+585,Zebstrika,WHT,32,Stage 1 Pokémon,None,None,Blitzle,120.0,{L}
+586,Joltik,WHT,33,Basic Pokémon,None,None,None,40.0,{L}
+587,Galvantula,WHT,34,Stage 1 Pokémon,None,None,Joltik,90.0,{L}
+588,Stunfisk,WHT,35,Basic Pokémon,None,None,None,110.0,{L}
+589,Woobat,WHT,36,Basic Pokémon,None,None,None,60.0,{P}
+590,Swoobat,WHT,37,Stage 1 Pokémon,None,None,Woobat,90.0,{P}
+591,Sigilyph,WHT,38,Basic Pokémon,None,None,None,120.0,{P}
+592,Yamask,WHT,39,Basic Pokémon,None,None,None,70.0,{P}
+593,Cofagrigus,WHT,40,Stage 1 Pokémon,None,None,Yamask,120.0,{P}
+594,Gothita,WHT,41,Basic Pokémon,None,None,None,70.0,{P}
+595,Gothorita,WHT,42,Stage 1 Pokémon,None,None,Gothita,90.0,{P}
+596,Gothitelle,WHT,43,Stage 2 Pokémon,None,None,Gothorita,150.0,{P}
+597,Frillish,WHT,44,Basic Pokémon,None,None,None,80.0,{P}
+598,Jellicent ex,WHT,45,Stage 1 Pokémon,Pokémon ex,None,Frillish,270.0,{P}
+599,Roggenrola,WHT,46,Basic Pokémon,None,None,None,80.0,{F}
+600,Boldore,WHT,47,Stage 1 Pokémon,None,None,Roggenrola,110.0,{F}
+601,Gigalith,WHT,48,Stage 2 Pokémon,None,None,Boldore,170.0,{F}
+602,Sawk,WHT,49,Basic Pokémon,None,None,None,110.0,{F}
+603,Archen,WHT,50,Stage 1 Pokémon,None,None,Antique Plume Fossil,80.0,{F}
+604,Archeops,WHT,51,Stage 2 Pokémon,None,None,Archen,140.0,{F}
+605,Mienfoo,WHT,52,Basic Pokémon,None,None,None,60.0,{F}
+606,Mienshao,WHT,53,Stage 1 Pokémon,None,None,Mienfoo,100.0,{F}
+607,Terrakion,WHT,54,Basic Pokémon,None,None,None,140.0,{F}
+608,Purrloin,WHT,55,Basic Pokémon,None,None,None,60.0,{D}
+609,Liepard,WHT,56,Stage 1 Pokémon,None,None,Purrloin,110.0,{D}
+610,Scraggy,WHT,57,Basic Pokémon,None,None,None,70.0,{D}
+611,Scrafty,WHT,58,Stage 1 Pokémon,None,None,Scraggy,120.0,{D}
+612,Trubbish,WHT,59,Basic Pokémon,None,None,None,70.0,{D}
+613,Garbodor,WHT,60,Stage 1 Pokémon,None,None,Trubbish,140.0,{D}
+614,Zorua,WHT,61,Basic Pokémon,None,None,None,70.0,{D}
+615,Zoroark,WHT,62,Stage 1 Pokémon,None,None,Zorua,120.0,{D}
+616,Deino,WHT,65,Basic Pokémon,None,None,None,80.0,{D}
+617,Zweilous,WHT,66,Stage 1 Pokémon,None,None,Deino,110.0,{D}
+618,Hydreigon ex,WHT,67,Stage 2 Pokémon,Pokémon ex,None,Zweilous,330.0,{D}
+619,Ferroseed,WHT,68,Basic Pokémon,None,None,None,70.0,{M}
+620,Ferrothorn,WHT,69,Stage 1 Pokémon,None,None,Ferroseed,140.0,{M}
+621,Klink,BLK,61,Basic Pokémon,None,None,None,60.0,{M}
+622,Klang,BLK,62,Stage 1 Pokémon,None,None,Klink,90.0,{M}
+623,Klinklang,BLK,63,Stage 2 Pokémon,None,None,Klang,150.0,{M}
+624,Durant,WHT,70,Basic Pokémon,None,None,None,110.0,{M}
+625,Druddigon,WHT,71,Basic Pokémon,None,None,None,120.0,Dragon
+626,Patrat,WHT,72,Basic Pokémon,None,None,None,60.0,{C}
+627,Watchog,WHT,73,Stage 1 Pokémon,None,None,Patrat,90.0,{C}
+628,Lillipup,WHT,74,Basic Pokémon,None,None,None,60.0,{C}
+629,Herdier,WHT,75,Stage 1 Pokémon,None,None,Lillipup,90.0,{C}
+630,Stoutland,WHT,76,Stage 2 Pokémon,None,None,Herdier,160.0,{C}
+631,Bouffalant ex,WHT,77,Basic Pokémon,Pokémon ex,None,None,220.0,{C}
+632,Rufflet,BLK,77,Basic Pokémon,None,None,None,70.0,{C}
+633,Braviary,BLK,78,Stage 1 Pokémon,None,None,Rufflet,140.0,{C}
+634,Tornadus,WHT,78,Basic Pokémon,None,None,None,120.0,{C}
+635,Steven's Baltoy,DRI,83,Basic Pokémon,None,Trainer's Pokémon（Steven）,None,60.0,{P}
+636,Steven's Claydol,DRI,84,Stage 1 Pokémon,None,Trainer's Pokémon（Steven）,Steven's Baltoy,120.0,{P}
+637,Steven's Carbink,DRI,86,Basic Pokémon,None,Trainer's Pokémon（Steven）,None,80.0,{P}
+638,Steven's Skarmory,DRI,142,Basic Pokémon,None,Trainer's Pokémon（Steven）,None,120.0,{M}
+639,Steven's Beldum,DRI,143,Basic Pokémon,None,Trainer's Pokémon（Steven）,None,70.0,{M}
+640,Steven's Metang,DRI,144,Stage 1 Pokémon,None,Trainer's Pokémon（Steven）,Steven's Beldum,100.0,{M}
+641,Steven's Metagross ex,DRI,145,Stage 2 Pokémon,Pokémon ex,Trainer's Pokémon（Steven）,Steven's Metang,340.0,{M}
+642,Marnie's Purrloin,DRI,130,Basic Pokémon,None,Trainer's Pokémon（Marnie）,None,60.0,{D}
+643,Marnie's Liepard,DRI,131,Stage 1 Pokémon,None,Trainer's Pokémon（Marnie）,Marnie's Purrloin,100.0,{D}
+644,Marnie's Scraggy,DRI,132,Basic Pokémon,None,Trainer's Pokémon（Marnie）,None,70.0,{D}
+645,Marnie's Scrafty,DRI,133,Stage 1 Pokémon,None,Trainer's Pokémon（Marnie）,Marnie's Scraggy,120.0,{D}
+646,Marnie's Impidimp,DRI,134,Basic Pokémon,None,Trainer's Pokémon（Marnie）,None,70.0,{D}
+647,Marnie's Morgrem,DRI,135,Stage 1 Pokémon,None,Trainer's Pokémon（Marnie）,Marnie's Impidimp,100.0,{D}
+648,Marnie's Grimmsnarl ex,DRI,136,Stage 2 Pokémon,Pokémon ex,Trainer's Pokémon（Marnie）,Marnie's Morgrem,320.0,{D}
+649,Marnie's Morpeko,DRI,137,Basic Pokémon,None,Trainer's Pokémon（Marnie）,None,70.0,{D}
+650,Bulbasaur,MEG,1,Basic Pokémon,None,None,None,80.0,{G}
+651,Ivysaur,MEG,2,Stage 1 Pokémon,None,None,Bulbasaur,110.0,{G}
+652,Mega Venusaur ex,MEG,3,Stage 2 Pokémon,Mega Pokémon ex,None,Ivysaur,380.0,{G}
+653,Exeggcute,MEG,4,Basic Pokémon,None,None,None,60.0,{G}
+654,Exeggutor,MEG,5,Stage 1 Pokémon,None,None,Exeggcute,140.0,{G}
+655,Celebi,MEG,12,Basic Pokémon,None,None,None,80.0,{G}
+656,Seedot,MEG,13,Basic Pokémon,None,None,None,60.0,{G}
+657,Nuzleaf,MEG,14,Stage 1 Pokémon,None,None,Seedot,100.0,{G}
+658,Shiftry,MEG,15,Stage 2 Pokémon,None,None,Nuzleaf,160.0,{G}
+659,Vulpix,MEG,19,Basic Pokémon,None,None,None,70.0,{R}
+660,Ninetales,MEG,20,Stage 1 Pokémon,None,None,Vulpix,120.0,{R}
+661,Numel,MEG,21,Basic Pokémon,None,None,None,80.0,{R}
+662,Mega Camerupt ex,MEG,22,Stage 1 Pokémon,Mega Pokémon ex,None,Numel,340.0,{R}
+663,Volcanion,MEG,25,Basic Pokémon,None,None,None,130.0,{R}
+664,Scorbunny,MEG,26,Basic Pokémon,None,None,None,70.0,{R}
+665,Raboot,MEG,27,Stage 1 Pokémon,None,None,Scorbunny,100.0,{R}
+666,Cinderace,MEG,28,Stage 2 Pokémon,None,None,Raboot,160.0,{R}
+667,Corphish,MEG,33,Basic Pokémon,None,None,None,80.0,{W}
+668,Gimmighoul,MEG,67,Basic Pokémon,None,None,None,70.0,{P}
+669,Sandshrew,MEG,68,Basic Pokémon,None,None,None,70.0,{F}
+670,Sandslash,MEG,69,Stage 1 Pokémon,None,None,Sandshrew,120.0,{F}
+671,Onix,MEG,70,Basic Pokémon,None,None,None,120.0,{F}
+672,Tyrogue,MEG,71,Basic Pokémon,None,None,None,30.0,{F}
+673,Makuhita,MEG,72,Basic Pokémon,None,None,None,80.0,{F}
+674,Hariyama,MEG,73,Stage 1 Pokémon,None,None,Makuhita,150.0,{F}
+675,Lunatone,MEG,74,Basic Pokémon,None,None,None,110.0,{F}
+676,Solrock,MEG,75,Basic Pokémon,None,None,None,110.0,{F}
+677,Riolu,MEG,76,Basic Pokémon,None,None,None,80.0,{F}
+678,Mega Lucario ex,MEG,77,Stage 1 Pokémon,Mega Pokémon ex,None,Riolu,340.0,{F}
+679,Croagunk,MEG,78,Basic Pokémon,None,None,None,70.0,{F}
+680,Toxicroak,MEG,79,Stage 1 Pokémon,None,None,Croagunk,130.0,{F}
+681,Marshadow,MEG,80,Basic Pokémon,None,None,None,90.0,{F}
+682,Stonjourner,MEG,81,Basic Pokémon,None,None,None,130.0,{F}
+683,Nacli,MEG,82,Basic Pokémon,None,None,None,70.0,{F}
+684,Naclstack,MEG,83,Stage 1 Pokémon,None,None,Nacli,110.0,{F}
+685,Garganacl,MEG,84,Stage 2 Pokémon,None,None,Naclstack,180.0,{F}
+686,Crawdaunt,MEG,85,Stage 1 Pokémon,None,None,Corphish,130.0,{D}
+687,Mega Absol ex,MEG,86,Basic Pokémon,Mega Pokémon ex,None,None,280.0,{D}
+688,Spiritomb,MEG,87,Basic Pokémon,None,None,None,80.0,{D}
+689,Yveltal,MEG,88,Basic Pokémon,None,None,None,110.0,{D}
+690,Nickit,MEG,89,Basic Pokémon,None,None,None,70.0,{D}
+691,Thievul,MEG,90,Stage 1 Pokémon,None,None,Nickit,120.0,{D}
+692,Shroodle,MEG,91,Basic Pokémon,None,None,None,60.0,{D}
+693,Grafaiai,MEG,92,Stage 1 Pokémon,None,None,Shroodle,100.0,{D}
+694,Steelix,MEG,93,Stage 1 Pokémon,None,None,Onix,200.0,{M}
+695,Mega Mawile ex,MEG,94,Basic Pokémon,Mega Pokémon ex,None,None,270.0,{M}
+696,Dialga,MEG,95,Basic Pokémon,None,None,None,140.0,{M}
+697,Tinkatink,MEG,96,Basic Pokémon,None,None,None,70.0,{M}
+698,Tinkatuff,MEG,97,Stage 1 Pokémon,None,None,Tinkatink,90.0,{M}
+699,Tinkaton,MEG,98,Stage 2 Pokémon,None,None,Tinkatuff,160.0,{M}
+700,Gholdengo,MEG,99,Stage 1 Pokémon,None,None,Gimmighoul,130.0,{M}
+701,Spearow,MEG,102,Basic Pokémon,None,None,None,60.0,{C}
+702,Fearow,MEG,103,Stage 1 Pokémon,None,None,Spearow,100.0,{C}
+703,Miltank,MEG,106,Basic Pokémon,None,None,None,120.0,{C}
+704,Yungoos,MEG,109,Basic Pokémon,None,None,None,70.0,{C}
+705,Gumshoos,MEG,110,Stage 1 Pokémon,None,None,Yungoos,100.0,{C}
+706,Tangela,MEG,6,Basic Pokémon,None,None,None,80.0,{G}
+707,Tangrowth,MEG,7,Stage 1 Pokémon,None,None,Tangela,150.0,{G}
+708,Chikorita,MEG,8,Basic Pokémon,None,None,None,70.0,{G}
+709,Bayleef,MEG,9,Stage 1 Pokémon,None,None,Chikorita,110.0,{G}
+710,Meganium,MEG,10,Stage 2 Pokémon,None,None,Bayleef,160.0,{G}
+711,Shuckle,MEG,11,Basic Pokémon,None,None,None,80.0,{G}
+712,Nincada,MEG,16,Basic Pokémon,None,None,None,50.0,{G}
+713,Ninjask,MEG,17,Stage 1 Pokémon,None,None,Nincada,80.0,{G}
+714,Dhelmise,MEG,18,Basic Pokémon,None,None,None,120.0,{G}
+715,Litleo,MEG,23,Basic Pokémon,None,None,None,70.0,{R}
+716,Pyroar,MEG,24,Stage 1 Pokémon,None,None,Litleo,130.0,{R}
+717,Sizzlipede,MEG,29,Basic Pokémon,None,None,None,80.0,{R}
+718,Centiskorch,MEG,30,Stage 1 Pokémon,None,None,Sizzlipede,140.0,{R}
+719,Chi-Yu,MEG,31,Basic Pokémon,None,None,None,110.0,{R}
+720,Mantine,MEG,32,Basic Pokémon,None,None,None,110.0,{W}
+721,Kyogre,MEG,34,Basic Pokémon,None,None,None,150.0,{W}
+722,Snover,MEG,35,Basic Pokémon,None,None,None,90.0,{W}
+723,Mega Abomasnow ex,MEG,36,Stage 1 Pokémon,Mega Pokémon ex,None,Snover,350.0,{W}
+724,Clauncher,MEG,37,Basic Pokémon,None,None,None,80.0,{W}
+725,Clawitzer,MEG,38,Stage 1 Pokémon,None,None,Clauncher,130.0,{W}
+726,Sobble,MEG,39,Basic Pokémon,None,None,None,70.0,{W}
+727,Drizzile,MEG,40,Stage 1 Pokémon,None,None,Sobble,100.0,{W}
+728,Inteleon,MEG,41,Stage 2 Pokémon,None,None,Drizzile,150.0,{W}
+729,Snom,MEG,42,Basic Pokémon,None,None,None,50.0,{W}
+730,Frosmoth,MEG,43,Stage 1 Pokémon,None,None,Snom,110.0,{W}
+731,Eiscue,MEG,44,Basic Pokémon,None,None,None,110.0,{W}
+732,Magnemite,MEG,45,Basic Pokémon,None,None,None,70.0,{L}
+733,Magneton,MEG,46,Stage 1 Pokémon,None,None,Magnemite,90.0,{L}
+734,Magnezone,MEG,47,Stage 2 Pokémon,None,None,Magneton,160.0,{L}
+735,Raikou,MEG,48,Basic Pokémon,None,None,None,120.0,{L}
+736,Electrike,MEG,49,Basic Pokémon,None,None,None,70.0,{L}
+737,Mega Manectric ex,MEG,50,Stage 1 Pokémon,Mega Pokémon ex,None,Electrike,330.0,{L}
+738,Pachirisu,MEG,51,Basic Pokémon,None,None,None,70.0,{L}
+739,Helioptile,MEG,52,Basic Pokémon,None,None,None,70.0,{L}
+740,Heliolisk,MEG,53,Stage 1 Pokémon,None,None,Helioptile,120.0,{L}
+741,Abra,MEG,54,Basic Pokémon,None,None,None,50.0,{P}
+742,Kadabra,MEG,55,Stage 1 Pokémon,None,None,Abra,80.0,{P}
+743,Alakazam,MEG,56,Stage 2 Pokémon,None,None,Kadabra,140.0,{P}
+744,Jynx,MEG,57,Basic Pokémon,None,None,None,110.0,{P}
+745,Ralts,MEG,58,Basic Pokémon,None,None,None,70.0,{P}
+746,Kirlia,MEG,59,Stage 1 Pokémon,None,None,Ralts,100.0,{P}
+747,Mega Gardevoir ex,MEG,60,Stage 2 Pokémon,Mega Pokémon ex,None,Kirlia,360.0,{P}
+748,Shedinja,MEG,61,Stage 1 Pokémon,None,None,Nincada,60.0,{P}
+749,Spoink,MEG,62,Basic Pokémon,None,None,None,70.0,{P}
+750,Grumpig,MEG,63,Stage 1 Pokémon,None,None,Spoink,120.0,{P}
+751,Xerneas,MEG,64,Basic Pokémon,None,None,None,120.0,{P}
+752,Greavard,MEG,65,Basic Pokémon,None,None,None,80.0,{P}
+753,Houndstone,MEG,66,Stage 1 Pokémon,None,None,Greavard,140.0,{P}
+754,Mega Latias ex,MEG,100,Basic Pokémon,Mega Pokémon ex,None,None,280.0,Dragon
+755,Latios,MEG,101,Basic Pokémon,None,None,None,130.0,Dragon
+756,Mega Kangaskhan ex,MEG,104,Basic Pokémon,Mega Pokémon ex,None,None,300.0,{C}
+757,Delibird,MEG,105,Basic Pokémon,None,None,None,90.0,{C}
+758,Buneary,MEG,107,Basic Pokémon,None,None,None,70.0,{C}
+759,Lopunny,MEG,108,Stage 1 Pokémon,None,None,Buneary,110.0,{C}
+760,Stufful,MEG,111,Basic Pokémon,None,None,None,70.0,{C}
+761,Bewear,MEG,112,Stage 1 Pokémon,None,None,Stufful,130.0,{C}
+762,Snubbull,PFL,37,Basic Pokémon,None,None,None,70.0,{P}
+763,Granbull,PFL,38,Stage 1 Pokémon,None,None,Snubbull,130.0,{P}
+764,Cresselia,PFL,39,Basic Pokémon,None,None,None,120.0,{P}
+765,Meloetta,PFL,40,Basic Pokémon,None,None,None,90.0,{P}
+766,Mega Diancie ex,PFL,41,Basic Pokémon,Mega Pokémon ex,None,None,270.0,{P}
+767,Mimikyu,PFL,42,Basic Pokémon,None,None,None,70.0,{P}
+768,Milcery,PFL,43,Basic Pokémon,None,None,None,50.0,{P}
+769,Alcremie,PFL,44,Stage 1 Pokémon,None,None,Milcery,90.0,{P}
+770,Gastly,PFL,54,Basic Pokémon,None,None,None,70.0,{D}
+771,Haunter,PFL,55,Stage 1 Pokémon,None,None,Gastly,100.0,{D}
+772,Mega Gengar ex,PFL,56,Stage 2 Pokémon,Mega Pokémon ex,None,Haunter,350.0,{D}
+773,Murkrow,PFL,57,Basic Pokémon,None,None,None,60.0,{D}
+774,Honchkrow,PFL,58,Stage 1 Pokémon,None,None,Murkrow,130.0,{D}
+775,Sableye,PFL,59,Basic Pokémon,None,None,None,80.0,{D}
+776,Absol,PFL,63,Basic Pokémon,None,None,None,110.0,{D}
+777,Eternatus,PFL,69,Basic Pokémon,None,None,None,150.0,{D}
+778,Oddish,PFL,1,Basic Pokémon,None,None,None,50.0,{G}
+779,Gloom,PFL,2,Stage 1 Pokémon,None,None,Oddish,70.0,{G}
+780,Vileplume,PFL,3,Stage 2 Pokémon,None,None,Gloom,150.0,{G}
+781,Mega Heracross ex,PFL,4,Basic Pokémon,Mega Pokémon ex,None,None,280.0,{G}
+782,Lotad,PFL,5,Basic Pokémon,None,None,None,70.0,{G}
+783,Lombre,PFL,6,Stage 1 Pokémon,None,None,Lotad,90.0,{G}
+784,Ludicolo,PFL,7,Stage 2 Pokémon,None,None,Lombre,160.0,{G}
+785,Genesect,PFL,8,Basic Pokémon,None,None,None,120.0,{G}
+786,Nymble,PFL,9,Basic Pokémon,None,None,None,50.0,{G}
+787,Lokix,PFL,10,Stage 1 Pokémon,None,None,Nymble,120.0,{G}
+788,Charmander,PFL,11,Basic Pokémon,None,None,None,80.0,{R}
+789,Charmeleon,PFL,12,Stage 1 Pokémon,None,None,Charmander,110.0,{R}
+790,Mega Charizard X ex,PFL,13,Stage 2 Pokémon,Mega Pokémon ex,None,Charmeleon,360.0,{R}
+791,Moltres,PFL,14,Basic Pokémon,None,None,None,120.0,{R}
+792,Darumaka,PFL,15,Basic Pokémon,None,None,None,80.0,{R}
+793,Darmanitan,PFL,16,Stage 1 Pokémon,None,None,Darumaka,150.0,{R}
+794,Reshiram,PFL,17,Basic Pokémon,None,None,None,130.0,{R}
+795,Oricorio ex,PFL,18,Basic Pokémon,Pokémon ex,None,None,190.0,{R}
+796,Charcadet,PFL,19,Basic Pokémon,None,None,None,70.0,{R}
+797,Ceruledge,PFL,20,Stage 1 Pokémon,None,None,Charcadet,140.0,{R}
+798,Seel,PFL,21,Basic Pokémon,None,None,None,80.0,{W}
+799,Dewgong,PFL,22,Stage 1 Pokémon,None,None,Seel,130.0,{W}
+800,Swinub,PFL,23,Basic Pokémon,None,None,None,70.0,{W}
+801,Piloswine,PFL,24,Stage 1 Pokémon,None,None,Swinub,100.0,{W}
+802,Mamoswine,PFL,25,Stage 2 Pokémon,None,None,Piloswine,180.0,{W}
+803,Suicune,PFL,26,Basic Pokémon,None,None,None,130.0,{W}
+804,Piplup,PFL,27,Basic Pokémon,None,None,None,70.0,{W}
+805,Prinplup,PFL,28,Stage 1 Pokémon,None,None,Piplup,100.0,{W}
+806,Rotom ex,PFL,29,Basic Pokémon,Pokémon ex,None,None,190.0,{L}
+807,Yamper,PFL,30,Basic Pokémon,None,None,None,70.0,{L}
+808,Boltund,PFL,31,Stage 1 Pokémon,None,None,Yamper,130.0,{L}
+809,Pawmi,PFL,32,Basic Pokémon,None,None,None,60.0,{L}
+810,Pawmo,PFL,33,Stage 1 Pokémon,None,None,Pawmi,90.0,{L}
+811,Pawmot,PFL,34,Stage 2 Pokémon,None,None,Pawmo,140.0,{L}
+812,Misdreavus,PFL,35,Basic Pokémon,None,None,None,70.0,{P}
+813,Mismagius ex,PFL,36,Stage 1 Pokémon,Pokémon ex,None,Misdreavus,260.0,{P}
+814,Cottonee,PROMO,18,Basic Pokémon,None,None,None,60.0,{P}
+815,Whimsicott,PROMO,19,Stage 1 Pokémon,None,None,Cottonee,90.0,{P}
+816,Zacian,PFL,45,Basic Pokémon,None,None,None,130.0,{P}
+817,Bramblin,PFL,46,Basic Pokémon,None,None,None,50.0,{P}
+818,Brambleghast,PFL,47,Stage 1 Pokémon,None,None,Bramblin,100.0,{P}
+819,Paldean Tauros,PFL,48,Basic Pokémon,None,None,None,130.0,{F}
+820,Gligar,PFL,49,Basic Pokémon,None,None,None,70.0,{F}
+821,Gliscor,PFL,50,Stage 1 Pokémon,None,None,Gligar,120.0,{F}
+822,Trapinch,PFL,51,Basic Pokémon,None,None,None,70.0,{F}
+823,Vibrava,PFL,52,Stage 1 Pokémon,None,None,Trapinch,90.0,{F}
+824,Flygon,PFL,53,Stage 2 Pokémon,None,None,Vibrava,150.0,{F}
+825,Sneasel,PROMO,20,Basic Pokémon,None,None,None,70.0,{D}
+826,Weavile,PROMO,21,Stage 1 Pokémon,None,None,Sneasel,90.0,{D}
+827,Carvanha,PFL,60,Basic Pokémon,None,None,None,70.0,{D}
+828,Mega Sharpedo ex,PFL,61,Stage 1 Pokémon,Mega Pokémon ex,None,Carvanha,330.0,{D}
+829,Seviper,PFL,62,Basic Pokémon,None,None,None,120.0,{D}
+830,Sandile,PFL,64,Basic Pokémon,None,None,None,70.0,{D}
+831,Krokorok,PFL,65,Stage 1 Pokémon,None,None,Sandile,100.0,{D}
+832,Krookodile,PFL,66,Stage 2 Pokémon,None,None,Krokorok,170.0,{D}
+833,Toxel,PFL,67,Basic Pokémon,None,None,None,70.0,{D}
+834,Toxtricity,PFL,68,Stage 1 Pokémon,None,None,Toxel,140.0,{D}
+835,Empoleon ex,PFL,70,Stage 2 Pokémon,Pokémon ex,None,Prinplup,320.0,{M}
+836,Bronzor,PFL,71,Basic Pokémon,None,None,None,80.0,{M}
+837,Bronzong,PFL,72,Stage 1 Pokémon,None,None,Bronzor,140.0,{M}
+838,Togedemaru,PFL,73,Basic Pokémon,None,None,None,80.0,{M}
+839,Duraludon,PFL,74,Basic Pokémon,None,None,None,130.0,{M}
+840,Archaludon,PFL,75,Stage 1 Pokémon,None,None,Duraludon,180.0,{M}
+841,Jigglypuff,PFL,76,Basic Pokémon,None,None,None,70.0,{C}
+842,Wigglytuff,PFL,77,Stage 1 Pokémon,None,None,Jigglypuff,120.0,{C}
+843,Aipom,PFL,78,Basic Pokémon,None,None,None,70.0,{C}
+844,Ambipom,PFL,79,Stage 1 Pokémon,None,None,Aipom,110.0,{C}
+845,Smeargle,PFL,80,Basic Pokémon,None,None,None,80.0,{C}
+846,Zigzagoon,PFL,81,Basic Pokémon,None,None,None,70.0,{C}
+847,Linoone,PFL,82,Stage 1 Pokémon,None,None,Zigzagoon,100.0,{C}
+848,Buneary,PFL,83,Basic Pokémon,None,None,None,70.0,{C}
+849,Mega Lopunny ex,PFL,84,Stage 1 Pokémon,Mega Pokémon ex,None,Buneary,330.0,{C}
+850,Wurmple,ASC,11,Basic Pokémon,None,None,None,60.0,{G}
+851,Silcoon,ASC,12,Stage 1 Pokémon,None,None,Wurmple,90.0,{G}
+852,Beautifly,ASC,13,Stage 2 Pokémon,None,None,Silcoon,130.0,{G}
+853,Cascoon,ASC,14,Stage 1 Pokémon,None,None,Wurmple,90.0,{G}
+854,Dustox,ASC,15,Stage 2 Pokémon,None,None,Cascoon,140.0,{G}
+855,Entei,ASC,25,Basic Pokémon,None,None,None,140.0,{R}
+856,Numel,ASC,27,Basic Pokémon,None,None,None,80.0,{R}
+857,Camerupt,ASC,28,Stage 1 Pokémon,None,None,Numel,140.0,{R}
+858,Psyduck,ASC,39,Basic Pokémon,None,None,None,70.0,{W}
+859,Golduck,ASC,40,Stage 1 Pokémon,None,None,Psyduck,120.0,{W}
+860,Snorunt,ASC,46,Basic Pokémon,None,None,None,70.0,{W}
+861,Mega Froslass ex,ASC,47,Stage 1 Pokémon,Mega Pokémon ex,None,Snorunt,310.0,{W}
+862,N's Vanillite,ASC,49,Basic Pokémon,None,Trainer's Pokémon（N）,None,60.0,{W}
+863,N's Vanillish,ASC,50,Stage 1 Pokémon,None,Trainer's Pokémon（N）,N's Vanillite,100.0,{W}
+864,N's Vanilluxe,ASC,51,Stage 2 Pokémon,None,Trainer's Pokémon（N）,N's Vanillish,150.0,{W}
+865,Snom,ASC,52,Basic Pokémon,None,None,None,50.0,{W}
+866,Frosmoth,ASC,53,Stage 1 Pokémon,None,None,Snom,110.0,{W}
+867,Glastrier,ASC,54,Basic Pokémon,None,None,None,130.0,{W}
+868,Mega Eelektross ex,ASC,61,Stage 2 Pokémon,Mega Pokémon ex,None,Eelektrik,350.0,{L}
+869,Stunfisk,ASC,62,Basic Pokémon,None,None,None,110.0,{L}
+870,Helioptile,ASC,63,Basic Pokémon,None,None,None,70.0,{L}
+871,Heliolisk,ASC,64,Stage 1 Pokémon,None,None,Helioptile,120.0,{L}
+872,Tapu Koko,ASC,67,Basic Pokémon,None,None,None,120.0,{L}
+873,Team Rocket's Exeggcute,ASC,77,Basic Pokémon,None,Trainer's Pokémon（Team Rocket）,None,60.0,{P}
+874,Team Rocket's Exeggutor,ASC,78,Stage 1 Pokémon,None,Trainer's Pokémon（Team Rocket）,Team Rocket's Exeggcute,140.0,{P}
+875,Misdreavus,ASC,85,Basic Pokémon,None,None,None,60.0,{P}
+876,Mismagius,ASC,86,Stage 1 Pokémon,None,None,Misdreavus,110.0,{P}
+877,Rotom,ASC,92,Basic Pokémon,None,None,None,60.0,{P}
+878,Hop's Phantump,ASC,95,Basic Pokémon,None,Trainer's Pokémon（Hop）,None,70.0,{P}
+879,Hop's Trevenant,ASC,96,Stage 1 Pokémon,None,Trainer's Pokémon（Hop）,Hop's Phantump,140.0,{P}
+880,Spectrier,ASC,98,Basic Pokémon,None,None,None,120.0,{P}
+881,Team Rocket's Diglett,ASC,100,Basic Pokémon,None,Trainer's Pokémon（Team Rocket）,None,60.0,{F}
+882,Team Rocket's Dugtrio,ASC,101,Stage 1 Pokémon,None,Trainer's Pokémon（Team Rocket）,Team Rocket's Diglett,100.0,{F}
+883,Meditite,ASC,103,Basic Pokémon,None,None,None,70.0,{F}
+884,Medicham,ASC,104,Stage 1 Pokémon,None,None,Meditite,120.0,{F}
+885,Pancham,ASC,115,Basic Pokémon,None,None,None,70.0,{F}
+886,Mega Hawlucha ex,ASC,116,Basic Pokémon,Mega Pokémon ex,None,None,250.0,{F}
+887,Rolycoly,ASC,118,Basic Pokémon,None,None,None,80.0,{F}
+888,Carkol,ASC,119,Stage 1 Pokémon,None,None,Rolycoly,110.0,{F}
+889,Coalossal,ASC,120,Stage 2 Pokémon,None,None,Carkol,180.0,{F}
+890,Okidogi,ASC,122,Basic Pokémon,None,None,None,140.0,{F}
+891,Team Rocket's Honchkrow,ASC,127,Stage 1 Pokémon,None,Trainer's Pokémon（Team Rocket）,Team Rocket's Murkrow,130.0,{D}
+892,Galarian Zigzagoon,ASC,130,Basic Pokémon,None,None,None,70.0,{D}
+893,Galarian Linoone,ASC,131,Stage 1 Pokémon,None,None,Galarian Zigzagoon,90.0,{D}
+894,Galarian Obstagoon,ASC,132,Stage 2 Pokémon,None,None,Galarian Linoone,170.0,{D}
+895,Scraggy,ASC,134,Basic Pokémon,None,None,None,80.0,{D}
+896,Mega Scrafty ex,ASC,135,Stage 1 Pokémon,Mega Pokémon ex,None,Scraggy,330.0,{D}
+897,Pangoro,ASC,140,Stage 1 Pokémon,None,None,Pancham,140.0,{D}
+898,Pecharunt,ASC,143,Basic Pokémon,None,None,None,80.0,{D}
+899,Pawniard,ASC,146,Basic Pokémon,None,None,None,70.0,{M}
+900,Bisharp,ASC,147,Stage 1 Pokémon,None,None,Pawniard,120.0,{M}
+901,Kingambit,ASC,148,Stage 2 Pokémon,None,None,Bisharp,170.0,{M}
+902,Dratini,ASC,150,Basic Pokémon,None,None,None,80.0,Dragon
+903,Dragonair,ASC,151,Stage 1 Pokémon,None,None,Dratini,100.0,Dragon
+904,Mega Dragonite ex,ASC,152,Stage 2 Pokémon,Mega Pokémon ex,None,Dragonair,370.0,Dragon
+905,Rayquaza,ASC,153,Basic Pokémon,None,None,None,120.0,Dragon
+906,N's Zekrom,ASC,155,Basic Pokémon,None,Trainer's Pokémon（N）,None,130.0,Dragon
+907,Noibat,ASC,156,Basic Pokémon,None,None,None,70.0,Dragon
+908,Noivern,ASC,157,Stage 1 Pokémon,None,None,Noibat,120.0,Dragon
+909,Erika's Oddish,ASC,1,Basic Pokémon,None,Trainer's Pokémon（Erika）,None,60.0,{G}
+910,Erika's Gloom,ASC,2,Stage 1 Pokémon,None,Trainer's Pokémon（Erika）,Erika's Oddish,90.0,{G}
+911,Erika's Vileplume ex,ASC,3,Stage 2 Pokémon,Pokémon ex,Trainer's Pokémon（Erika）,Erika's Gloom,310.0,{G}
+912,Erika's Bellsprout,ASC,4,Basic Pokémon,None,Trainer's Pokémon（Erika）,None,60.0,{G}
+913,Erika's Weepinbell,ASC,5,Stage 1 Pokémon,None,Trainer's Pokémon（Erika）,Erika's Bellsprout,90.0,{G}
+914,Erika's Victreebel,ASC,6,Stage 2 Pokémon,None,Trainer's Pokémon（Erika）,Erika's Weepinbell,150.0,{G}
+915,Erika's Tangela,ASC,7,Basic Pokémon,None,Trainer's Pokémon（Erika）,None,80.0,{G}
+916,Scyther,,1,Basic Pokémon,None,None,None,90.0,{G}
+917,Chikorita,ASC,8,Basic Pokémon,None,None,None,70.0,{G}
+918,Bayleef,ASC,9,Stage 1 Pokémon,None,None,Chikorita,100.0,{G}
+919,Mega Meganium ex,ASC,10,Stage 2 Pokémon,Mega Pokémon ex,None,Bayleef,360.0,{G}
+920,Tapu Bulu,SFA,6,Basic Pokémon,None,None,None,140.0,{G}
+921,Dipplin,SCR,13,Stage 1 Pokémon,None,None,Applin,90.0,{G}
+922,Sprigatito,JTG,16,Basic Pokémon,None,None,None,60.0,{G}
+923,Floragato,JTG,17,Stage 1 Pokémon,None,None,Sprigatito,90.0,{G}
+924,Meowscarada,JTG,18,Stage 2 Pokémon,None,None,Floragato,160.0,{G}
+925,Capsakid,,12,Basic Pokémon,None,None,None,70.0,{G}
+926,Charmander,ASC,20,Basic Pokémon,None,None,None,80.0,{R}
+927,Charmeleon,ASC,21,Stage 1 Pokémon,None,None,Charmander,100.0,{R}
+928,Mega Charizard Y ex,ASC,22,Stage 2 Pokémon,Mega Pokémon ex,None,Charmeleon,360.0,{R}
+929,Magmar,,20,Basic Pokémon,None,None,None,80.0,{R}
+930,Tepig,ASC,29,Basic Pokémon,None,None,None,80.0,{R}
+931,Pignite,ASC,30,Stage 1 Pokémon,None,None,Tepig,110.0,{R}
+932,Mega Emboar ex,ASC,31,Stage 2 Pokémon,Mega Pokémon ex,None,Pignite,380.0,{R}
+933,Larvesta,SSP,24,Basic Pokémon,None,None,None,70.0,{R}
+934,Centiskorch,SSP,28,Stage 1 Pokémon,None,None,Sizzlipede,130.0,{R}
+935,Fuecoco,SSP,29,Basic Pokémon,None,None,None,80.0,{R}
+936,Crocalor,SSP,30,Stage 1 Pokémon,None,None,Fuecoco,110.0,{R}
+937,Totodile,ASC,41,Basic Pokémon,None,None,None,80.0,{W}
+938,Croconaw,ASC,42,Stage 1 Pokémon,None,None,Totodile,100.0,{W}
+939,Mega Feraligatr ex,ASC,43,Stage 2 Pokémon,Mega Pokémon ex,None,Croconaw,370.0,{W}
+940,Glalie,TWM,52,Stage 1 Pokémon,None,None,Snorunt,120.0,{W}
+941,Spheal,SSP,43,Basic Pokémon,None,None,None,70.0,{W}
+942,Sealeo,SSP,44,Stage 1 Pokémon,None,None,Spheal,100.0,{W}
+943,Walrein,SSP,45,Stage 2 Pokémon,None,None,Sealeo,170.0,{W}
+944,Regice ex,ASC,48,Basic Pokémon,Pokémon ex,None,None,230.0,{W}
+945,Froakie,SCR,39,Basic Pokémon,None,None,None,60.0,{W}
+946,Cramorant,TWM,58,Basic Pokémon,None,None,None,110.0,{W}
+947,Quaxly,,50,Basic Pokémon,None,None,None,60.0,{W}
+948,Pikachu,ASC,55,Basic Pokémon,None,None,None,70.0,{L}
+949,Raichu,ASC,56,Stage 1 Pokémon,None,None,Pikachu,130.0,{L}
+950,Magnemite,SSP,58,Basic Pokémon,None,None,None,60.0,{L}
+951,Voltorb ex,ASC,58,Basic Pokémon,Pokémon ex,None,None,170.0,{L}
+952,Zapdos,PROMO,157,Basic Pokémon,None,None,None,110.0,{L}
+953,Zapdos,TWM,65,Basic Pokémon,None,None,None,120.0,{L}
+954,Luxray ex,TWM,68,Stage 2 Pokémon,Pokémon ex,None,Luxio,310.0,{L}
+955,Helioptile,TWM,70,Basic Pokémon,None,None,None,60.0,{L}
+956,Zeraora,SCR,55,Basic Pokémon,None,None,None,120.0,{L}
+957,Miraidon ex,ASC,73,Basic Pokémon,Pokémon ex,Tera(Lightning),None,220.0,{L}
+958,Clefable,ASC,75,Stage 1 Pokémon,None,None,Clefairy,120.0,{P}
+959,Togepi,ASC,80,Basic Pokémon,None,None,None,50.0,{P}
+960,Togetic,ASC,81,Stage 1 Pokémon,None,None,Togepi,90.0,{P}
+961,Marill,ASC,83,Basic Pokémon,None,None,None,70.0,{P}
+962,Azumarill ex,ASC,84,Stage 1 Pokémon,Pokémon ex,None,Marill,270.0,{P}
+963,Shuppet,ASC,90,Basic Pokémon,None,None,None,60.0,{P}
+964,Beheeyem,TEF,74,Stage 1 Pokémon,None,None,Elgyem,100.0,{P}
+965,Swirlix,ASC,93,Basic Pokémon,None,None,None,60.0,{P}
+966,Slurpuff,ASC,94,Stage 1 Pokémon,None,None,Swirlix,120.0,{P}
+967,Fidough,SCR,66,Basic Pokémon,None,None,None,60.0,{P}
+968,Dachsbun ex,SCR,67,Stage 1 Pokémon,Pokémon ex,None,Fidough,250.0,{P}
+969,Scream Tail ex,TWM,94,Basic Pokémon,Pokémon ex,Ancient,None,190.0,{P}
+970,Fezandipiti,TWM,96,Basic Pokémon,None,None,None,120.0,{P}
+971,Iron Boulder,SCR,71,Basic Pokémon,None,Future,None,140.0,{P}
+972,Hitmontop,ASC,102,Basic Pokémon,None,None,None,100.0,{F}
+973,Groudon,ASC,108,Basic Pokémon,None,None,None,140.0,{F}
+974,Riolu,SCR,81,Basic Pokémon,None,None,None,70.0,{F}
+975,Stunfisk ex,ASC,114,Basic Pokémon,Pokémon ex,None,None,210.0,{F}
+976,Carbink,ASC,117,Basic Pokémon,None,None,None,90.0,{F}
+977,Crabrawler,SCR,87,Basic Pokémon,None,None,None,90.0,{F}
+978,Passimian,SSP,111,Basic Pokémon,None,None,None,110.0,{F}
+979,Koraidon ex,ASC,121,Basic Pokémon,Pokémon ex,Tera(Fighting),None,230.0,{F}
+980,Venipede,TWM,115,Basic Pokémon,None,None,None,80.0,{D}
+981,Whirlipede,TWM,116,Stage 1 Pokémon,None,None,Venipede,100.0,{D}
+982,Scolipede,TWM,117,Stage 2 Pokémon,None,None,Whirlipede,170.0,{D}
+983,Vullaby,ASC,138,Basic Pokémon,None,None,None,70.0,{D}
+984,Mandibuzz ex,ASC,139,Stage 1 Pokémon,Pokémon ex,None,Vullaby,260.0,{D}
+985,Hoopa,ASC,141,Basic Pokémon,None,None,None,120.0,{D}
+986,Brute Bonnet,TWM,118,Basic Pokémon,None,Ancient,None,120.0,{D}
+987,Mawile,ASC,144,Basic Pokémon,None,None,None,90.0,{M}
+988,Registeel ex,ASC,145,Basic Pokémon,Pokémon ex,None,None,230.0,{M}
+989,Bronzor,SSP,126,Basic Pokémon,None,None,None,60.0,{M}
+990,Togedemaru ex,ASC,149,Basic Pokémon,Pokémon ex,None,None,190.0,{M}
+991,Melmetal,TEF,117,Stage 1 Pokémon,None,None,Meltan,160.0,{M}
+992,Duraludon,,129,Basic Pokémon,None,None,None,130.0,{M}
+993,Orthworm ex,SCR,110,Basic Pokémon,Pokémon ex,None,None,220.0,{M}
+994,Fraxure,SFA,45,Stage 1 Pokémon,None,None,Axew,100.0,Dragon
+995,Haxorus,SFA,46,Stage 2 Pokémon,None,None,Fraxure,170.0,Dragon
+996,Larry's Dunsparce,ASC,163,Basic Pokémon,None,Trainer's Pokémon（Larry）,None,70.0,{C}
+997,Larry's Dudunsparce ex,ASC,164,Stage 1 Pokémon,Pokémon ex,Trainer's Pokémon（Larry）,Larry's Dunsparce,270.0,{C}
+998,Slakoth,,145,Basic Pokémon,None,None,None,60.0,{C}
+999,Vigoroth,,146,Stage 1 Pokémon,None,None,Slakoth,90.0,{C}
+1000,Skitty,ASC,165,Basic Pokémon,None,None,None,60.0,{C}
+1001,Delcatty,ASC,166,Stage 1 Pokémon,None,None,Skitty,100.0,{C}
+1002,Zangoose ex,ASC,167,Basic Pokémon,Pokémon ex,None,None,200.0,{C}
+1003,Larry's Starly,ASC,168,Basic Pokémon,None,Trainer's Pokémon（Larry）,None,60.0,{C}
+1004,Larry's Staravia,ASC,169,Stage 1 Pokémon,None,Trainer's Pokémon（Larry）,Larry's Starly,90.0,{C}
+1005,Larry's Staraptor,ASC,170,Stage 2 Pokémon,None,Trainer's Pokémon（Larry）,Larry's Staravia,150.0,{C}
+1006,Mega Audino ex,ASC,172,Basic Pokémon,Mega Pokémon ex,None,None,270.0,{C}
+1007,Larry's Rufflet,ASC,173,Basic Pokémon,None,Trainer's Pokémon（Larry）,None,70.0,{C}
+1008,Larry's Braviary,ASC,174,Stage 1 Pokémon,None,Trainer's Pokémon（Larry）,Larry's Rufflet,130.0,{C}
+1009,Larry's Komala,ASC,175,Basic Pokémon,None,Trainer's Pokémon（Larry）,None,90.0,{C}
+1010,Drampa,ASC,176,Basic Pokémon,None,None,None,130.0,{C}
+1011,Spinarak,POR,1,Basic Pokémon,None,None,None,60.0,{G}
+1012,Ariados,POR,2,Stage 1 Pokémon,None,None,Spinarak,110.0,{G}
+1013,Shaymin,POR,3,Basic Pokémon,None,None,None,70.0,{G}
+1014,Snivy,POR,4,Basic Pokémon,None,None,None,70.0,{G}
+1015,Servine,POR,5,Stage 1 Pokémon,None,None,Snivy,100.0,{G}
+1016,Serperior,POR,6,Stage 2 Pokémon,None,None,Servine,160.0,{G}
+1017,Scatterbug,POR,7,Basic Pokémon,None,None,None,40.0,{G}
+1018,Spewpa,POR,8,Stage 1 Pokémon,None,None,Scatterbug,80.0,{G}
+1019,Vivillon,POR,9,Stage 2 Pokémon,None,None,Spewpa,120.0,{G}
+1020,Rowlet,POR,10,Basic Pokémon,None,None,None,80.0,{G}
+1021,Dartrix,POR,11,Stage 1 Pokémon,None,None,Rowlet,100.0,{G}
+1022,Decidueye ex,POR,12,Stage 2 Pokémon,Pokémon ex,None,Dartrix,320.0,{G}
+1023,Fletchinder,POR,13,Stage 1 Pokémon,None,None,Fletchling,90.0,{R}
+1024,Talonflame,POR,14,Stage 2 Pokémon,None,None,Fletchinder,150.0,{R}
+1025,Salandit,POR,15,Basic Pokémon,None,None,None,70.0,{R}
+1026,Salazzle ex,POR,16,Stage 1 Pokémon,Pokémon ex,None,Salandit,260.0,{R}
+1027,Turtonator,POR,17,Basic Pokémon,None,None,None,120.0,{R}
+1028,Seel,POR,18,Basic Pokémon,None,None,None,80.0,{W}
+1029,Dewgong,POR,19,Stage 1 Pokémon,None,None,Seel,130.0,{W}
+1030,Staryu,POR,20,Basic Pokémon,None,None,None,70.0,{W}
+1031,Mega Starmie ex,POR,21,Stage 1 Pokémon,Mega Pokémon ex,None,Staryu,330.0,{W}
+1032,Amaura,POR,23,Stage 1 Pokémon,None,None,Antique Sail Fossil,100.0,{W}
+1033,Aurorus,POR,24,Stage 2 Pokémon,None,None,Amaura,170.0,{W}
+1034,Volcanion,POR,25,Basic Pokémon,None,None,None,130.0,{W}
+1035,Shinx,POR,26,Basic Pokémon,None,None,None,70.0,{L}
+1036,Luxio,POR,27,Stage 1 Pokémon,None,None,Shinx,90.0,{L}
+1037,Luxray,POR,28,Stage 2 Pokémon,None,None,Luxio,150.0,{L}
+1038,Dedenne,POR,29,Basic Pokémon,None,None,None,70.0,{L}
+1039,Clefairy,POR,30,Basic Pokémon,None,None,None,70.0,{P}
+1040,Mega Clefable ex,POR,31,Stage 1 Pokémon,Mega Pokémon ex,None,Clefairy,320.0,{P}
+1041,Mawile,POR,32,Basic Pokémon,None,None,None,110.0,{P}
+1042,Espurr,POR,33,Basic Pokémon,None,None,None,60.0,{P}
+1043,Meowstic,POR,34,Stage 1 Pokémon,None,None,Espurr,100.0,{P}
+1044,Spritzee,POR,35,Basic Pokémon,None,None,None,70.0,{P}
+1045,Aromatisse,POR,36,Stage 1 Pokémon,None,None,Spritzee,120.0,{P}
+1046,Nosepass,POR,37,Basic Pokémon,None,None,None,90.0,{F}
+1047,Probopass,POR,38,Stage 1 Pokémon,None,None,Nosepass,140.0,{F}
+1048,Hippopotas,POR,39,Basic Pokémon,None,None,None,100.0,{F}
+1049,Hippowdon,POR,40,Stage 1 Pokémon,None,None,Hippopotas,150.0,{F}
+1050,Landorus,POR,41,Basic Pokémon,None,None,None,120.0,{F}
+1051,Binacle,POR,42,Basic Pokémon,None,None,None,80.0,{F}
+1052,Barbaracle,POR,43,Stage 1 Pokémon,None,None,Binacle,130.0,{F}
+1053,Tyrunt,POR,44,Stage 1 Pokémon,None,None,Antique Jaw Fossil,100.0,{F}
+1054,Tyrantrum,POR,45,Stage 2 Pokémon,None,None,Tyrunt,180.0,{F}
+1055,Hawlucha,POR,46,Basic Pokémon,None,None,None,70.0,{F}
+1056,Mega Zygarde ex,POR,47,Basic Pokémon,Mega Pokémon ex,None,None,310.0,{F}
+1057,Gastly,POR,48,Basic Pokémon,None,None,None,70.0,{D}
+1058,Haunter,POR,49,Stage 1 Pokémon,None,None,Gastly,100.0,{D}
+1059,Gengar,POR,50,Stage 2 Pokémon,None,None,Haunter,130.0,{D}
+1060,Skorupi,POR,51,Basic Pokémon,None,None,None,80.0,{D}
+1061,Drapion,POR,52,Stage 1 Pokémon,None,None,Skorupi,140.0,{D}
+1062,Yveltal ex,POR,53,Basic Pokémon,Pokémon ex,None,None,210.0,{D}
+1063,Chien-Pao,POR,54,Basic Pokémon,None,None,None,120.0,{D}
+1064,Mega Skarmory ex,POR,55,Basic Pokémon,Mega Pokémon ex,None,None,260.0,{M}
+1065,Honedge,POR,56,Basic Pokémon,None,None,None,70.0,{M}
+1066,Doublade,POR,57,Stage 1 Pokémon,None,None,Honedge,100.0,{M}
+1067,Aegislash,POR,58,Stage 2 Pokémon,None,None,Doublade,150.0,{M}
+1068,Klefki,POR,59,Basic Pokémon,None,None,None,70.0,{M}
+1069,Rattata,POR,60,Basic Pokémon,None,None,None,40.0,{C}
+1070,Raticate,POR,61,Stage 1 Pokémon,None,None,Rattata,90.0,{C}
+1071,Meowth ex,POR,62,Basic Pokémon,Pokémon ex,None,None,170.0,{C}
+1072,Snorlax,POR,63,Basic Pokémon,None,None,None,160.0,{C}
+1073,Bunnelby,POR,64,Basic Pokémon,None,None,None,70.0,{C}
+1074,Diggersby,POR,65,Stage 1 Pokémon,None,None,Bunnelby,150.0,{C}
+1075,Fletchling,POR,66,Basic Pokémon,None,None,None,60.0,{C}
+1076,Furfrou,POR,67,Basic Pokémon,None,None,None,90.0,{C}
+1077,Roto-Stick,PRE,127,Item,None,None,None,0.0,Trainer
+1078,Hole-Digging Shovel,POR,74,Item,None,None,None,0.0,Trainer
+1079,Rare Candy,SVI,191,Item,None,None,None,0.0,Trainer
+1080,Unfair Stamp,TWM,165,Item,ACE SPEC,None,None,0.0,Trainer
+1081,Enhanced Hammer,TWM,148,Item,None,None,None,0.0,Trainer
+1082,Hyper Aroma,TWM,152,Item,ACE SPEC,None,None,0.0,Trainer
+1083,Love Ball,,156,Item,None,None,None,0.0,Trainer
+1084,Boxed Order,TEF,143,Item,None,None,None,0.0,Trainer
+1085,Awakening Drum,TEF,141,Item,ACE SPEC,Ancient,None,0.0,Trainer
+1086,Buddy-Buddy Poffin,TEF,144,Item,None,None,None,0.0,Trainer
+1087,Hand Trimmer,TEF,150,Item,None,None,None,0.0,Trainer
+1088,Prime Catcher,TEF,157,Item,ACE SPEC,None,None,0.0,Trainer
+1089,Reboot Pod,TEF,158,Item,ACE SPEC,Future,None,0.0,Trainer
+1090,Ogre’s Mask,TWM,159,Item,None,None,None,0.0,Trainer
+1091,Accompanying Flute,TWM,142,Item,None,None,None,0.0,Trainer
+1092,Secret Box,TWM,163,Item,ACE SPEC,None,None,0.0,Trainer
+1093,Scoop Up Cyclone,TWM,162,Item,ACE SPEC,None,None,0.0,Trainer
+1094,Bug Catching Set,TWM,143,Item,None,None,None,0.0,Trainer
+1095,Dangerous Laser,SFA,58,Item,ACE SPEC,None,None,0.0,Trainer
+1096,Poké Vital A,SFA,62,Item,ACE SPEC,None,None,0.0,Trainer
+1097,Night Stretcher,SFA,61,Item,None,None,None,0.0,Trainer
+1098,Glass Trumpet,SCR,135,Item,None,None,None,0.0,Trainer
+1099,Antique Root Fossil,SCR,130,Item,None,Fossil,Evolve to Lileep,60.0,Trainer
+1100,Energy Search Pro,SSP,176,Item,ACE SPEC,None,None,0.0,Trainer
+1101,Call Bell,SSP,165,Item,None,None,None,0.0,Trainer
+1102,Dusk Ball,SSP,175,Item,None,None,None,0.0,Trainer
+1103,Meddling Memo,SSP,181,Item,None,None,None,0.0,Trainer
+1104,Megaton Blower,SSP,182,Item,ACE SPEC,None,None,0.0,Trainer
+1105,Dragon Elixir,SSP,172,Item,None,None,None,0.0,Trainer
+1106,Deduction Kit,SSP,171,Item,None,None,None,0.0,Trainer
+1107,Scramble Switch,SSP,186,Item,ACE SPEC,None,None,0.0,Trainer
+1108,Chill Teaser Toy,SSP,166,Item,None,None,None,0.0,Trainer
+1109,Miracle Headset,SSP,183,Item,ACE SPEC,None,None,0.0,Trainer
+1110,Max Rod,PRE,116,Item,ACE SPEC,None,None,0.0,Trainer
+1111,Treasure Tracker,PRE,131,Item,ACE SPEC,None,None,0.0,Trainer
+1112,Super Potion,JTG,158,Item,None,None,None,0.0,Trainer
+1113,N’s PP Up,JTG,153,Item,None,None,None,0.0,Trainer
+1114,Redeemable Ticket,JTG,156,Item,None,None,None,0.0,Trainer
+1115,Hop’s Bag,JTG,147,Item,None,None,None,0.0,Trainer
+1116,Energy Switch,SVI,173,Item,None,None,None,0.0,Trainer
+1117,Potion,SVI,188,Item,None,None,None,0.0,Trainer
+1118,Energy Retrieval,SVI,171,Item,None,None,None,0.0,Trainer
+1119,Energy Search,SVI,172,Item,None,None,None,0.0,Trainer
+1120,Crushing Hammer,SVI,168,Item,None,None,None,0.0,Trainer
+1121,Ultra Ball,SVI,196,Item,None,None,None,0.0,Trainer
+1122,Pokégear 3.0,SVI,186,Item,None,None,None,0.0,Trainer
+1123,Switch,SVI,194,Item,None,None,None,0.0,Trainer
+1124,Pokémon Catcher,SVI,187,Item,None,None,None,0.0,Trainer
+1125,Master Ball,TEF,153,Item,ACE SPEC,None,None,0.0,Trainer
+1126,Precious Trolley,SSP,185,Item,ACE SPEC,None,None,0.0,Trainer
+1127,Tera Orb,SSP,189,Item,None,None,None,0.0,Trainer
+1128,Brilliant Blender,SSP,164,Item,ACE SPEC,None,None,0.0,Trainer
+1129,Sacred Ash,DRI,168,Item,None,None,None,0.0,Trainer
+1130,Arven's Sandwich,DRI,161,Item,None,None,None,0.0,Trainer
+1131,Team Rocket's Bother-Bot,DRI,172,Item,None,None,None,0.0,Trainer
+1132,Team Rocket's Great Ball,DRI,175,Item,None,None,None,0.0,Trainer
+1133,Team Rocket's Venture Bomb,DRI,179,Item,None,None,None,0.0,Trainer
+1134,Team Rocket's Transceiver,DRI,178,Item,None,None,None,0.0,Trainer
+1135,Energy Coin,BLK,81,Item,None,None,None,0.0,Trainer
+1136,Antique Cover Fossil,BLK,80,Item,None,Fossil,Evolve to Tirtouga,60.0,Trainer
+1137,Tool Scrapper,WHT,85,Item,None,None,None,0.0,Trainer
+1138,Antique Plume Fossil,WHT,79,Item,None,Fossil,Evolve to Archen,60.0,Trainer
+1139,Energy Recycler,DRI,164,Item,None,None,None,0.0,Trainer
+1140,Iron Defender,MEG,118,Item,None,None,None,0.0,Trainer
+1141,Premium Power Pro,MEG,124,Item,None,None,None,0.0,Trainer
+1142,Fighting Gong,MEG,116,Item,None,None,None,0.0,Trainer
+1143,Repel,MEG,126,Item,None,None,None,0.0,Trainer
+1144,Strange Timepiece,MEG,128,Item,None,None,None,0.0,Trainer
+1145,Mega Signal,MEG,121,Item,None,None,None,0.0,Trainer
+1146,Wondrous Patch,PFL,94,Item,None,None,None,0.0,Trainer
+1147,Jumbo Ice Cream,PFL,91,Item,None,None,None,0.0,Trainer
+1148,Blowtorch,PFL,86,Item,None,None,None,0.0,Trainer
+1149,Energy Swatter,POR,73,Item,None,None,None,0.0,Trainer
+1150,Antique Jaw Fossil,POR,68,Item,None,Fossil,Evolve to Tyrunt,60.0,Trainer
+1151,Antique Sail Fossil,POR,69,Item,None,Fossil,Evolve to Amaura,60.0,Trainer
+1152,Poké Pad,POR,81,Item,None,None,None,0.0,Trainer
+1153,Lumiose Galette,POR,78,Item,None,None,None,0.0,Trainer
+1154,Team Rocket’s Hypnotizer,ASC,206,Pokémon Tool,None,None,None,0.0,Trainer
+1155,Survival Brace,TWM,164,Pokémon Tool,ACE SPEC,None,None,0.0,Trainer
+1156,Lucky Helmet,TWM,158,Pokémon Tool,None,None,None,0.0,Trainer
+1157,Rescue Board,TEF,159,Pokémon Tool,None,None,None,0.0,Trainer
+1158,Maximum Belt,TEF,154,Pokémon Tool,ACE SPEC,None,None,0.0,Trainer
+1159,Hero’s Cape,TEF,152,Pokémon Tool,ACE SPEC,None,None,0.0,Trainer
+1160,Heavy Baton,TEF,151,Pokémon Tool,None,None,None,0.0,Trainer
+1161,Handheld Fan,TWM,150,Pokémon Tool,None,None,None,0.0,Trainer
+1162,Binding Mochi,SFA,55,Pokémon Tool,None,None,None,0.0,Trainer
+1163,Powerglass,SFA,63,Pokémon Tool,None,None,None,0.0,Trainer
+1164,Payapa Berry,SCR,141,Pokémon Tool,None,None,None,0.0,Trainer
+1165,Sparkling Crystal,SCR,142,Pokémon Tool,ACE SPEC,None,None,0.0,Trainer
+1166,Gravity Gemstone,SCR,137,Pokémon Tool,None,None,None,0.0,Trainer
+1167,Deluxe Bomb,SCR,134,Pokémon Tool,ACE SPEC,None,None,0.0,Trainer
+1168,Counter Gain,SSP,169,Pokémon Tool,None,None,None,0.0,Trainer
+1169,Amulet of Hope,SSP,162,Pokémon Tool,ACE SPEC,None,None,0.0,Trainer
+1170,Haban Berry,PRE,111,Pokémon Tool,None,None,None,0.0,Trainer
+1171,Hop’s Choice Band,JTG,148,Pokémon Tool,None,None,None,0.0,Trainer
+1172,Lillie’s Pearl,JTG,151,Pokémon Tool,None,None,None,0.0,Trainer
+1173,Cynthia's Power Weight,DRI,162,Pokémon Tool,None,None,None,0.0,Trainer
+1174,Air Balloon,BLK,79,Pokémon Tool,None,None,None,0.0,Trainer
+1175,Brave Bangle,WHT,80,Pokémon Tool,None,None,None,0.0,Trainer
+1176,Punk Helmet,PFL,92,Pokémon Tool,None,None,None,0.0,Trainer
+1177,Sacred Charm,PFL,93,Pokémon Tool,None,None,None,0.0,Trainer
+1178,Light Ball,ASC,191,Pokémon Tool,None,None,None,0.0,Trainer
+1179,Thick Scale,ASC,211,Pokémon Tool,None,None,None,0.0,Trainer
+1180,Core Memory,POR,70,Pokémon Tool,None,Technical Machine,None,0.0,Trainer
+1181,Billy & O'Nare,JTG,142,Supporter,None,None,None,0.0,Trainer
+1182,Boss’s Orders,PAL,172,Supporter,None,None,None,0.0,Trainer
+1183,Perrin,TWM,160,Supporter,None,None,None,0.0,Trainer
+1184,Lana’s Aid,TWM,155,Supporter,None,None,None,0.0,Trainer
+1185,Explorer’s Guidance,TEF,147,Supporter,None,Ancient,None,0.0,Trainer
+1186,Eri,TEF,146,Supporter,None,None,None,0.0,Trainer
+1187,Morty’s Conviction,TEF,155,Supporter,None,None,None,0.0,Trainer
+1188,Ciphermaniac’s Codebreaking,TEF,145,Supporter,None,Future,None,0.0,Trainer
+1189,Salvatore,TEF,160,Supporter,None,None,None,0.0,Trainer
+1190,Bianca’s Devotion,TEF,142,Supporter,None,None,None,0.0,Trainer
+1191,Kieran,TWM,154,Supporter,None,None,None,0.0,Trainer
+1192,Carmine,TWM,145,Supporter,None,None,None,0.0,Trainer
+1193,Hassel,TWM,151,Supporter,None,None,None,0.0,Trainer
+1194,Colress’s Tenacity,SFA,57,Supporter,None,None,None,0.0,Trainer
+1195,Janine’s Secret Art,SFA,59,Supporter,None,None,None,0.0,Trainer
+1196,Cassiopeia,SFA,56,Supporter,None,None,None,0.0,Trainer
+1197,Xerosic’s Machinations,SFA,64,Supporter,None,None,None,0.0,Trainer
+1198,Crispin,SCR,133,Supporter,None,None,None,0.0,Trainer
+1199,Lacey,SCR,139,Supporter,None,None,None,0.0,Trainer
+1200,Kofu,SCR,138,Supporter,None,None,None,0.0,Trainer
+1201,Briar,SCR,132,Supporter,None,None,None,0.0,Trainer
+1202,Drayton,SSP,174,Supporter,None,None,None,0.0,Trainer
+1203,Surfer,SSP,187,Supporter,None,None,None,0.0,Trainer
+1204,Lisia’s Appeal,SSP,179,Supporter,None,None,None,0.0,Trainer
+1205,Cyrano,SSP,170,Supporter,None,None,None,0.0,Trainer
+1206,Larry’s Skill,PRE,115,Supporter,None,None,None,0.0,Trainer
+1207,Amarys,PRE,93,Supporter,None,None,None,0.0,Trainer
+1208,Iris’s Fighting Spirit,JTG,149,Supporter,None,None,None,0.0,Trainer
+1209,Ruffian,JTG,157,Supporter,None,None,None,0.0,Trainer
+1210,Brock’s Scouting,JTG,146,Supporter,None,None,None,0.0,Trainer
+1211,Black Belt’s Training,PRE,96,Supporter,None,None,None,0.0,Trainer
+1212,Cook,TWM,147,Supporter,None,None,None,0.0,Trainer
+1213,Judge,SVI,176,Supporter,None,None,None,0.0,Trainer
+1214,Emcee's Hype,DRI,163,Supporter,None,None,None,0.0,Trainer
+1215,Ethan's Adventure,DRI,165,Supporter,None,None,None,0.0,Trainer
+1216,Team Rocket's Ariana,DRI,171,Supporter,None,None,None,0.0,Trainer
+1217,Team Rocket's Archer,DRI,170,Supporter,None,None,None,0.0,Trainer
+1218,Team Rocket's Giovanni,DRI,174,Supporter,None,None,None,0.0,Trainer
+1219,Team Rocket's Petrel,DRI,176,Supporter,None,None,None,0.0,Trainer
+1220,Team Rocket's Proton,DRI,177,Supporter,None,None,None,0.0,Trainer
+1221,N's Plan,BLK,83,Supporter,None,None,None,0.0,Trainer
+1222,Fennel,BLK,82,Supporter,None,None,None,0.0,Trainer
+1223,Harlequin,WHT,83,Supporter,None,None,None,0.0,Trainer
+1224,Cheren,WHT,81,Supporter,None,None,None,0.0,Trainer
+1225,Hilda,WHT,84,Supporter,None,None,None,0.0,Trainer
+1226,Lt. Surge's Bargain,MEG,120,Supporter,None,None,None,0.0,Trainer
+1227,Lillie's Determination,MEG,119,Supporter,None,None,None,0.0,Trainer
+1228,Acerola's Mischief,MEG,113,Supporter,None,None,None,0.0,Trainer
+1229,Wally's Compassion,MEG,132,Supporter,None,None,None,0.0,Trainer
+1230,Grimsley's Move,PFL,90,Supporter,None,None,None,0.0,Trainer
+1231,Dawn,PFL,87,Supporter,None,None,None,0.0,Trainer
+1232,Firebreather,PFL,89,Supporter,None,None,None,0.0,Trainer
+1233,Canari,ASC,185,Supporter,None,None,None,0.0,Trainer
+1234,Anthea & Concordia,ASC,182,Supporter,None,None,None,0.0,Trainer
+1235,Waitress,ASC,215,Supporter,None,None,None,0.0,Trainer
+1236,Urbain,ASC,214,Supporter,None,None,None,0.0,Trainer
+1237,Lucian,TWM,157,Supporter,None,None,None,0.0,Trainer
+1238,Tarragon,POR,85,Supporter,None,None,None,0.0,Trainer
+1239,Naveen,POR,79,Supporter,None,None,None,0.0,Trainer
+1240,Rosa's Encouragement,POR,84,Supporter,None,None,None,0.0,Trainer
+1241,Jacinthe,POR,75,Supporter,None,None,None,0.0,Trainer
+1242,Community Center,TWM,146,Stadium,None,None,None,0.0,Trainer
+1243,Perilous Jungle,TEF,156,Stadium,None,None,None,0.0,Trainer
+1244,Full Metal Lab,TEF,148,Stadium,None,None,None,0.0,Trainer
+1245,Festival Grounds,TWM,149,Stadium,None,None,None,0.0,Trainer
+1246,Jamming Tower,TWM,153,Stadium,None,None,None,0.0,Trainer
+1247,Neutralization Zone,SFA,60,Stadium,ACE SPEC,None,None,0.0,Trainer
+1248,Academy at Night,SFA,54,Stadium,None,None,None,0.0,Trainer
+1249,Grand Tree,SCR,136,Stadium,ACE SPEC,None,None,0.0,Trainer
+1250,Area Zero Underdepths,SCR,131,Stadium,None,None,None,0.0,Trainer
+1251,Lively Stadium,SSP,180,Stadium,None,None,None,0.0,Trainer
+1252,Gravity Mountain,SSP,177,Stadium,None,None,None,0.0,Trainer
+1253,N’s Castle,JTG,152,Stadium,None,None,None,0.0,Trainer
+1254,Levincia,JTG,150,Stadium,None,None,None,0.0,Trainer
+1255,Postwick,JTG,154,Stadium,None,None,None,0.0,Trainer
+1256,Team Rocket's Watchtower,DRI,180,Stadium,None,None,None,0.0,Trainer
+1257,Team Rocket's Factory,DRI,173,Stadium,None,None,None,0.0,Trainer
+1258,Granite Cave,DRI,166,Stadium,None,None,None,0.0,Trainer
+1259,Spikemuth Gym,DRI,169,Stadium,None,None,None,0.0,Trainer
+1260,Risky Ruins,MEG,127,Stadium,None,None,None,0.0,Trainer
+1261,Forest of Vitality,MEG,117,Stadium,None,None,None,0.0,Trainer
+1262,Surfing Beach,MEG,129,Stadium,None,None,None,0.0,Trainer
+1263,Mystery Garden,MEG,122,Stadium,None,None,None,0.0,Trainer
+1264,Battle Cage,PFL,85,Stadium,None,None,None,0.0,Trainer
+1265,Dizzying Valley,PFL,88,Stadium,None,None,None,0.0,Trainer
+1266,Nighttime Mine,ASC,197,Stadium,None,None,None,0.0,Trainer
+1267,Lumiose City,POR,77,Stadium,None,None,None,0.0,Trainer
